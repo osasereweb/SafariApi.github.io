@@ -1,5 +1,5 @@
 let data = {
-    integer: {
+    Integer: {
         Addition: {
             //10
             1: [
