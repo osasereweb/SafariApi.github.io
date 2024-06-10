@@ -68,7 +68,7 @@ let quizQuestionData = {
                     {
                         q: "The ___________ is not a report",
                         options: ["Special report", "reported speech", "routine report", "detailed report"],
-                        answer: "synopsis"
+                        answer: "reported speech"
                     },
                     {
                         q: "My trousers ____________ on my bed",
