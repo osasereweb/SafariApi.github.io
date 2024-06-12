@@ -6079,7 +6079,8 @@ let quizQuestionData = {
         },
     },
     premium: {
-        Available: 'No',
+        FirstSemesterAvailable: 'No',
+        SecondSemesterAvailable: 'No',
         premiumQuestions: {
             GST111: {
                 courseTitle: 'Use of English And Library',
