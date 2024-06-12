@@ -1,0 +1,3034 @@
+{
+    "ENS211": {
+        "courseTitle": "Engineers And Society",
+        "courseCode": "ENS211",
+        "questions": [
+            [
+                "Pareto analysis is also known as ___________________ because it analyses the range stock items held into _______________",
+                "ABC analysis, three sectors"
+            ],
+            [
+                "Problem solving is a procedure that necessarily involves a __________________ of activities.",
+                "logical sequence"
+            ],
+            [
+                "Motivation from a project manager cannot be accomplished without at least a fundamental knowledge of _________________________",
+                "human behavior"
+            ],
+            [
+                "The aim of EOQ theory is that for each item we choose the __________________ which gives the lowest _________________________ ",
+                "order quantity, total variable cost"
+            ],
+            [
+                "A key function of inventory management is to keep a detailed record of each new or returning product as it enters or leaves a warehouse or point of sale. True or False _____________",
+                "True"
+            ],
+            [
+                "In all modern societies, government plays more than a passive role in relation to industry commerce through industrial and fiscal law, state control or ownership or  _______________________",
+                "national planning"
+            ],
+            [
+                "The petroleum technology development fund (PTDF) was created in the year ______________ for the purpose of training Nigerians in the field of Engineering, Geology, science and ______________________ in the petroleum industry. ",
+                "1973, management"
+            ],
+            [
+                "_______________________ is one task of an engineer in a developing country Nigeria.",
+                "Management"
+            ],
+            [
+                "The function of an engineer is clearly evident in the age of the pyramids, and this dates back approximately ____________________",
+                "3000 B.C."
+            ],
+            [
+                "The type and quantity of goods and services a country can produce are limited by a _______________ that the country possesses.",
+                "resources"
+            ],
+            [
+                "Engineering qualifications and professional registration are categorized into three generic namely Engineers, Technologist and _________________",
+                "technicians"
+            ],
+            [
+                "Mathematically define the sinking fund factor ______________________",
+                "A=F[i/(1+i)^n-1]"
+            ],
+            [
+                "One of the problems in research is __________________________________",
+                "that its results cannot be guaranteed"
+            ],
+            [
+                "How many years will it take $5000 to double at an interest rate of 8% compounded annually? _________________",
+                "9 years"
+            ],
+            [
+                "In order to calculate the present value of an amount to received at a future date ,this amount must be multiplied by a factor called ____________________",
+                "discount factor"
+            ],
+            [
+                "Discounted cash flow rate of return (DCFROR) is commonly called ____________________________",
+                "internal rate of return (IRR)"
+            ],
+            [
+                "An oil company has to pay $10,000.00 per year, starting one year from today, on a loan obtained for five years at an effective interest rate of 8% calculate the future value of the annuity. ____________________",
+                "F=$58,666"
+            ],
+            [
+                "Accept a project if NPV is __________________ and reject the project with NPV __________________",
+                "positive, negative"
+            ],
+            [
+                "What equal series of payments must be paid into a sinking fund to accumulate $5000 in 7 years at interest rate of 8% when payments are made annually? _______________",
+                "A=$560"
+            ],
+            [
+                "___________________ refers to the current value in the capital accounts not recovered by depreciation.",
+                "Book value"
+            ],
+            [
+                "To receive $10,000 in the future 20 years from now, how much should one deposit today at 10 percent interest per year? ______________",
+                "$1,486"
+            ],
+            [
+                "The first accounting principle is known as? ____________________________",
+                "separate entity concept"
+            ],
+            [
+                "The double entry system was first evolved by ____________________",
+                "Luca Pacioli"
+            ],
+            [
+                "From _______________________________________ can be classified as opportunity costs, social costs, External Costs, and Associated Costs.",
+                "the socio-economic perspective cost"
+            ],
+            [
+                "Sinking fund factor is the reciprocal of capital recovery factor True or False ____________",
+                "False"
+            ],
+            [
+                "__________________________ simply means a sum of money now is normally worth more than an exact sum of money in future date.",
+                "Time value of money"
+            ],
+            [
+                "Calculate the present value of $15,000 to be received 10 years from today at an Interest rate of 10% compounded annually; _________________",
+                "PV=$5,783"
+            ],
+            [
+                "Calculate the future value of $5,000 invested today at an interest rate of 12% in 10 years? __________________",
+                "FV=$5,529"
+            ],
+            [
+                "If a sum of $25,000.00 is invested at the interest rate of 8% per year for 10years, what will it grow to? _________________",
+                "FV=$53,973"
+            ],
+            [
+                "Sunk cost are __________________________________",
+                "those incurred on a project prior to its appraisal and which can no longer be retrieved"
+            ],
+            [
+                "The single payment compound amount factor is given as? ________________",
+                "(1+I)^n"
+            ],
+            [
+                "Calculate the equivalent future value of $3,150.00 invested today at 8% interest for a period of six years _________________",
+                "FV=$4,999"
+            ],
+            [
+                "The creation of the NCST results in the promulgation of the Nigerian steel development authority (NSDA) Degree of ______________",
+                "1971"
+            ],
+            [
+                "The (NCSIR) was to encourage, ________________ and _________________ industrial research.",
+                "support, coordinate"
+            ],
+            [
+                "The maximum allowable payout period of a project is commonly set at ________ to ____________",
+                "3, 5 years"
+            ],
+            [
+                "Kaduna polytechnic followed in the year __________ and yaba college of technology decree came up in the year ___________ to provide courses of institutes, training and research in such fields as in applied science, technology, commerce and management.",
+                "1968, 1969"
+            ],
+            [
+                "In ___________, the federal Government streamlined the ______________________ of research findings in science and technology",
+                "1970, implementation"
+            ],
+            [
+                "This (NCSIR) degree formed the beginning of the Government’s many effort to create ___________ awareness and _________________ in the country.",
+                "technological, development"
+            ],
+            [
+                "Industrial Research Council of Nigeria (IRCN) gave birth to __________________ and ___________________ related research institutes such as Federal institutes of industrial Research, Oshodi (FIIRO) and project development Agency, Enugu (PRODA)",
+                "industrial, engineering"
+            ],
+            [
+                "The (NCSIR) was to coordinate research programmes related to national development in research _______________ and ___________________",
+                "institutes, university"
+            ],
+            [
+                "The national board for technical Education (NBTE) was created in year _____________",
+                "1977"
+            ],
+            [
+                "Another term for effectiveness is ______________________",
+                "productivity"
+            ],
+            [
+                "______________________ type of goods are classified as buildings or machines hired or bought by firms to use to produce goods or services.",
+                "Capital goods"
+            ],
+            [
+                "Goods bought by people for their personal needs and satisfaction are called ______________________",
+                "consumer goods"
+            ],
+            [
+                "The petroleum Technology Development Fund (PTDF) was created in the year ___________ for the purpose of training Nigerians in the field of Engineering, Geology, Science and management in the petroleum industry.",
+                "1973"
+            ],
+            [
+                "In ____________, the industrial training fund (ITF) Degree was promulgated by the federal Government due to the recommendation from the NCST.",
+                "1971"
+            ],
+            [
+                "Target fee is the basic fee to be paid if the _______________ matches the actual cost.",
+                "total cost"
+            ],
+            [
+                "In 1600, _________________ published his treatise on magnetism in Latin, the first great scientific work be published in England.",
+                "Gilbert"
+            ],
+            [
+                "In 1628, the _____________________ around body was discovered by Harvey which is the first item of biological science.",
+                "circulation of blood"
+            ],
+            [
+                "In 1674, _______________________ used the microscope to discover micro-organisms like bacteria and spermatozoa.",
+                "Leeuwenhock"
+            ],
+            [
+                "In the year __________________ invented a thermometer. ",
+                "1593, Galileo"
+            ],
+            [
+                "The __________________________ found in France in ___________ when Newton was having his brilliant new insights into celestial body, mechanics and optics.",
+                "academic des science, 1666"
+            ],
+            [
+                "The federal polytechnics degree of 1979 further expanded the ___________ and ____________ of such manpower.",
+                "training, education"
+            ],
+            [
+                "Equipment cost is also known as ___________________",
+                "tangible cost"
+            ],
+            [
+                "The (NCSIR) was to advise the federal Government on ____________ and ________________ policy and development.",
+                "science, technology"
+            ],
+            [
+                "____________ formulated three laws of planetary motion",
+                "Kepler"
+            ],
+            [
+                "Contract is an ________________ between two or more ___________",
+                "agreement, parties"
+            ],
+            [
+                "In 1609 ______________ used his new ____________________ to discover Jupiter’s moon",
+                "Galileo, telescope"
+            ],
+            [
+                "Galileo’s discoveries were finally published in ______________",
+                "1638"
+            ],
+            [
+                "Payout or payback period is the length of time required _________________________ during its estimated useful life.",
+                "to get our capital back"
+            ],
+            [
+                "The money has a time value i.e. _________________________________",
+                "a sum of money now is normally worth more than an exact sum of money any future date"
+            ],
+            [
+                "The salvage value of an item is the ____________________________ that will be rectified upon sale.",
+                "estimate of the amount of money"
+            ],
+            [
+                "Corrective maintenance is the action to be taken as ________________________ in order to restore the equipment to a specific condition.",
+                "a result of failure"
+            ],
+            [
+                "Record keeping consists of ________________ and __________________",
+                "basic forms, inspection manual"
+            ],
+            [
+                "The profit to-investment ratio reflects _______________________ while the payout time is defined as _________________________________",
+                "the total profitability, the time required for the cumulative earning to equal the initial outlay"
+            ],
+            [
+                "Planning is defined as _______________________________________",
+                "the function of selecting the enterprise objectives and establishing the policies, procedures and programmes necessary for achieving them"
+            ],
+            [
+                "The factor (1 + l)^n is called _______________________________",
+                "single payment compound amount factor"
+            ],
+            [
+                "Two typical reasons why plans fail are (a) ______________________________ (b) ________________________",
+                "poor financial estimate, plans based on insufficient data"
+            ],
+            [
+                "Preventive maintenance is ____________________ and __________________",
+                "the routine check of apparatus, the renewal of partially worn out component"
+            ],
+            [
+                "Predictive maintenance is most effective for systems that ____________________________",
+                "are usually accompanied by tragedy"
+            ],
+            [
+                "Staffing means _________________________________",
+                "seeing that a qualified person is selected for each position"
+            ],
+            [
+                "The emergence of modern science is generally said to have occurred in ______________ centaury.",
+                "seventeenth"
+            ],
+            [
+                "Taxation means __________________________________",
+                "a levy on incomes to finance public purposes"
+            ],
+            [
+                "_______________ Principle states that emphasis should be placed on the significant.",
+                "Pareto"
+            ],
+            [
+                "Planning is called strategic if it is expected to last _____________________",
+                "5 years or more"
+            ],
+            [
+                "Discounted cash flow rate of return (DCFROR) is _______________________________",
+                "defined as the discount rate that make the NPV of a project equal to zero"
+            ],
+            [
+                "Research meant for the purpose of academic is generally referred to as _________________",
+                "pure research"
+            ],
+            [
+                "The goods and services the government provide to the community are paid indirectly through ____________",
+                "taxation"
+            ],
+            [
+                "The difference between what a consumer is prepared to pay for a product and what is actually paid is _________________________",
+                "consumer surplus"
+            ],
+            [
+                "___________________ is generally to do with the monetary aspects of the buying, hiring and selling or resources, goods and services.",
+                "Price mechanism"
+            ],
+            [
+                "There are generally three (3) types of contracts. They include _________________________________",
+                "Fixed Price (FP), Cost-Plus-Fixed-Fee (CPFF), Cost-plus-Incentive-Fee (CPIF)"
+            ],
+            [
+                "An insurance policy is a ______________________ in which the insurer agrees to receive premiums and to pay compensation if the loss insured against actually occurs.",
+                "statement of contract"
+            ],
+            [
+                "Different firms goods and services that are likely to be identical in some cases are called ____________________ ",
+                "perfect substitute"
+            ],
+            [
+                "According to Douglas McGregor workers can be categorized into ___________________ and ____________________ groups.",
+                "Theory X, Theory Y"
+            ],
+            [
+                "_____________________ means acquisition by the state, whatever the means of achieving this or the form of management of the industry subsequently devised.",
+                "Nationalization"
+            ],
+            [
+                "Banks provides a service of ____________________",
+                "money flexibility"
+            ],
+            [
+                "_________________ is mainly done by industrial firms, their research associations or government bodies. ",
+                "Applied research"
+            ],
+            [
+                "_________________ is a system for reaching or attempting to reach certain objectives, and involves the use of resources to carry out activities towards those objectives.",
+                "Organization"
+            ],
+            [
+                "Evaluating performance means ______________________________",
+                "determining the cause of, and possible way to act upon significant deviation from planned performance"
+            ],
+            [
+                "The ______________ or ________________ is that level of cost that the contractor will most likely obtain under normal performance conditions.",
+                "target cost, estimated cost"
+            ],
+            [
+                "Directing also involves the process of counseling, correcting and coordinating. True or False _________________",
+                "True"
+            ],
+            [
+                "The _______________ may vary for different types of contracts even though the contract objectives are the same. ",
+                "target cost"
+            ],
+            [
+                "Because the fixed fee is usually small, contractors found that they could still make an appreciable profit by raising the _____________, ____________, and ________________ costs.",
+                "research, development, production"
+            ],
+            [
+                "The essence of ____________________ is that it offers a contractor more profit if he reduces costs or improves performance, and less profit if he raises costs or if performance goals are not met.",
+                "incentive contract"
+            ],
+            [
+                "Industrial and commercial organizations (firms) produce goods and services by using resources which must be paid for. The expense of this is called __________________________",
+                "cost of production"
+            ],
+            [
+                "Cost incentives takes the form of a sharing formula generally expressed as a ratio. For example, if a 90/10 formula were negotiated, the _______________ would pay for 90 cents and the ___________ 10 cents for every naira above the target cost.",
+                "government, contractor"
+            ],
+            [
+                "_________________________ is the process of converting a present sum of money into its equivalent future sum",
+                "Capitalization"
+            ],
+            [
+                "The accounts that record acquisitions of assets and liabilities are the _____________, those that measure the increase or decrease in capital are the __________________",
+                "capital account, revenue account"
+            ],
+            [
+                "___________________ is the acquisition of an asset that is not primarily held for resale but to aid the profit-earning process, such as the purchase of a machine or factory buildings.",
+                "Fixed asset"
+            ],
+            [
+                "Book value refers to _______________________________",
+                "the current value in the capital accounts not yet recovered by depreciation"
+            ],
+            [
+                "__________________ is simply one dependent on the time, which will elapse before the asset is consumed in the course of the business activities.",
+                "Current asset"
+            ],
+            [
+                "Overhead cost or burden cost can also be called _________________",
+                "indirect cost"
+            ],
+            [
+                "_____________________ is defined as a technique for estimating the net contribution of a project or investment plan to some set of objectives.",
+                "Project appraisal"
+            ],
+            [
+                "A monopoly exist when a firm _________________________________",
+                "produces goods and services for which there are no close substitute"
+            ],
+            [
+                "________________________ are those directly related to the making of a product they are, in general, readily measurable, of the same quantity in identical products, and used in economically significant amounts.",
+                "Direct material cost"
+            ],
+            [
+                "___________________ are those that are approximately proportional to direct labour costs such as pensions and health and accident insurance.",
+                "Fringe benefits"
+            ],
+            [
+                "Those materials and labour costs that do not meet the above criteria are ___________________",
+                "overhead cost"
+            ],
+            [
+                "Economics is concerned with ______________________________",
+                "production and distribution of wealth"
+            ],
+            [
+                "The ____________________ is usually a small percentage of the total or true cost",
+                "fixed fee"
+            ],
+            [
+                "______________ are cost that are already paid or committed which are irrelevant to a future investment decision that is being made.",
+                "Sunk cost"
+            ],
+            [
+                "Opportunity costs, social costs, external costs, and associated costs are frequently considered in the analysis of _______________",
+                "public investments"
+            ],
+            [
+                "__________________ is defined as a measure of the difference between what a consumer is prepared to pay for a product and what is actually paid.",
+                "Consumers surplus"
+            ],
+            [
+                "Example of ________________ related to the beneficiary of educational opportunities who foregoes income he could have been earning had he not been occupied in classes.",
+                "associated costs"
+            ],
+            [
+                "____________________ measures the flow of goods and services in pecuniary units (such as naira) to aggregate diverse outputs.",
+                "National income"
+            ],
+            [
+                "The two activities that lead to the rise of emergence of modern science and engineering are ____________________ and _________________",
+                "Greek civilization, renaissance"
+            ],
+            [
+                "_________________ exists if prices prevalent in successive periods (current prices) increases at approximately the same rate both at home and abroad.",
+                "General inflation"
+            ],
+            [
+                "Cost benefit indices are ______________________________",
+                "used for the comparison of costs and benefits of a proposed project or investment"
+            ],
+            [
+                "Nigerian society of Engineers which stipulates ___________ training period – this period has to be spent gaining experience in design office and construction sites.",
+                "4 years"
+            ],
+            [
+                "The internal rate of return is _________________________________",
+                "the rate of interest that equates the present value of capital outlay and the resultant cash flows"
+            ],
+            [
+                "____________________ is a process of imparting or exchanging information, it involves a sender and a recipient and some sort of response is always intended.",
+                "Communication"
+            ],
+            [
+                "Lead time comprises of ______________________ and ________________________",
+                "internal lead time, external lead time"
+            ],
+            [
+                "It is economical to order infrequently class A items and  frequently class C items. True or False ______________________",
+                "False"
+            ],
+            [
+                "Order level is also known as __________________ and ___________________",
+                "order point, reorder point"
+            ],
+            [
+                "State the four typical maintenance programmes (i) __________________ (ii) __________________ (iii) ____________________",
+                "scheduled, preventive, corrective, predicative"
+            ],
+            [
+                "Actions like servicing, inspection, repair, testing calibration etc. are observed in a __________________________",
+                "maintenance programme"
+            ],
+            [
+                "_________________________ type of maintenance programme is mainly concerned with actions to be performed as a result of failure in order to restore equipment to a specified condition.",
+                "corrective"
+            ],
+            [
+                "____________________ and __________________ are basic requirement for maintenance programmes to succeed",
+                "Record keeping, spare parts provisioning"
+            ],
+            [
+                "____________________ employs sampling plans to determine whether the fault liability of equipment or infrastructure at any particular time is likely to be ____________________",
+                "Quality control, satisfactory"
+            ],
+            [
+                "_____________________, stock management, inventory control and stock control are terms that can all have the same meaning.",
+                "Inventory management"
+            ],
+            [
+                "A most useful guide to devising stock control system is often known as __________________",
+                "Pareto analysis"
+            ],
+            [
+                "Theory X and Theory Y assumes that the average worker or employee is inherently lazy, requires supervision and seeks opportunity for self-respect with personal improvement respectively. True or False ____________________",
+                "True"
+            ],
+            [
+                "Controlling involves the following three steps (i)___________________________ (ii) ___________________________  (iii) ____________________________",
+                "measuring progress towards an objective, evaluating what remains to be done, corrective action to achieve or exceed the objectives"
+            ],
+            [
+                "Stockholding costs maybe regarded as ________________________________",
+                "the gross return desired on assets or capital"
+            ],
+            [
+                "In inventory management, the lower overall costs are to be found at a point where procurement cost is ____________ to stockholding cost.",
+                "equal"
+            ],
+            [
+                "_________________ is the level of item stock expressed in terms either of quantity or time coverage, at which a replenishment order is considered.",
+                "Order level"
+            ],
+            [
+                "What is lead time ______________________________",
+                "is the total time it takes to get things"
+            ],
+            [
+                "Most stocks can be analyzed into two components, _____________ and _____________",
+                "active stock, buffer stock"
+            ],
+            [
+                "Reducing stocks by leaving buffer stocks where they are and ordering smaller quantities, or reducing maximum stock levels, increases the ______________, while reducing minimum stock levels, increases ________________",
+                "workload, shortages"
+            ],
+            [
+                "______________ quantities mean low procurement costs but high stockholding costs, and ________________ quantities mean high procurement costs but low stockholding costs.",
+                "Large order, small order"
+            ],
+            [
+                "The economic order level, or the least-cost level of buffer stock, occurs when the cost of stock outs over a period ______________ the cost of carrying safety stock to prevent stock outs.",
+                "equals"
+            ],
+            [
+                "280.\tThe results of good planning including definition of the requirements, wild enthusiasm, project initiation and promotion of the non-participation. True or False _______________ ",
+                "False"
+            ],
+            [
+                "One of the objectives of _____________________ is to completely define all work required (possibly through the development of a document project plan) so that each project participant will be able to identify the work required.",
+                "project planning"
+            ],
+            [
+                "Without proper planning, programmes and projects can start off ‘behind the eight-ball’ because of ______________________ definition during the initial planning phase.",
+                "poor requirement"
+            ],
+            [
+                "State two basic reasons for project planning (i) ____________________ (ii) ____________________",
+                "to eliminate uncertainty, to improve efficiency of the operation"
+            ],
+            [
+                "Activities that can have a big effect on industry and commerce is research and development. Research means _____________________",
+                "search of knowledge"
+            ],
+            [
+                "Systematic planning is _____________________________",
+                "an analysis by which planning is decision making based upon history"
+            ],
+            [
+                "_________________________ is the process of converting a future sum of money into its equivalent present sum.",
+                "Discounting"
+            ],
+            [
+                "Controlling is a three-step process of ________________ progress towards an objective, _________________ what remains to be done, and taking the necessary _____________ action to achieve or exceed the objectives.",
+                "measuring, evaluating, corrective"
+            ],
+            [
+                "________________ is the implementing and carrying out (through others) of those approved plans that are necessary to achieve or exceed objectives.",
+                "Directing"
+            ],
+            [
+                "The manager who accepts Theory X normally exercises ___________________ type control over workers and allows little participation during decision making.",
+                "authoritarian"
+            ],
+            [
+                "The project management ______________________________ is an arena of continual conflicts and negotiation.",
+                "organizational structure"
+            ],
+            [
+                "________________ is the key to the project management process.",
+                "Authority"
+            ],
+            [
+                "The critical stage of any project is _________________",
+                "planning"
+            ],
+            [
+                "The typical elements of a society includes household, organization and __________________",
+                "government"
+            ],
+            [
+                "___________________ is concerned with conditions of employment, working conditions and the health and safety of employees.",
+                "Industrial law"
+            ],
+            [
+                "__________________________ methodology provides a systematic approach to problem solving and decision making and can be applied to a wide variety of problem areas.",
+                "Value management (VM)"
+            ],
+            [
+                "Problem solving is ______________________________",
+                "a procedure that necessarily involves a logical sequence of activities"
+            ],
+            [
+                "The most important step in problem solving is to precisely __________ and ___________ the problem.",
+                "identify, describe"
+            ],
+            [
+                "_________________ is the logical process of narrowing down a body of information during the search  for a solution.",
+                "Problem analysis"
+            ],
+            [
+                "___________________ and ____________________ are the first and second steps respectively of systems approach to problem analysis.",
+                "Recognize the problem, specify the problem"
+            ],
+            [
+                "In depreciation analysis, __________________________ is the total time period that an asset is economically useful",
+                "economic life"
+            ],
+            [
+                "Problems are identified by comparing ___________ to ___________ performance.",
+                "actual, planned"
+            ],
+            [
+                "Research is often divided into ______________ and ______________",
+                "pure, applied"
+            ],
+            [
+                "Engineering is a profession, an art, based on the ____________________ it is concerned with optimum efficiency, economy and safety for the benefit of mankind.",
+                "application of science"
+            ],
+            [
+                "Setting objectives against which to choose alternatives, prioritizing the objectives and evaluating the alternatives against the objectives are procedure that evolves ________________",
+                "good decision"
+            ],
+            [
+                "Suppose for coming quarter, the total of overhead costs and direct materials costs are estimated at N150,000 and N600,000 respectively for a STEPB engineering project, what is the overhead rate ________________",
+                "N0.25"
+            ],
+            [
+                "_________________________ analysis is the process of applying systematic forethought to the achievement of goals, while ________________ analysis is the process of applying systematic afterthought.",
+                "Potential problem, problem"
+            ],
+            [
+                "A series of equal periodic payments or disbursements at regular intervals normally at the end of a period, over a period of time while the interest is compounded at a certain rate is called? __________________",
+                "Annuity"
+            ],
+            [
+                "_____________________ is used to study the effects on a project of uncertainty but does not attempt to quantify the relative uncertainty.",
+                "Sensitivity analysis"
+            ],
+            [
+                "Sharing ratio is the agreed upon ____________________________ normally expressed in the percentage.",
+                "sharing formular"
+            ],
+            [
+                "___________________________ states that every debit has a corresponding and equal amount of credit. That is to say business transaction involves two aspects: for every receiving of benefit there is a corresponding giving of benefit.",
+                "Double entry principle"
+            ],
+            [
+                "Economic yardsticks are used to determine ___________________________",
+                "the financial benefits expressed by the profitability of investment"
+            ],
+            [
+                "One of the objectives of engineering maintenance is __________________________",
+                "to keep equipment in good working condition"
+            ],
+            [
+                "Preventive maintenance is effective for equipment subject to ____________________________",
+                "progressive deterioration"
+            ],
+            [
+                "The capital recovery fund represents the amount that must be set aside to _______________________________",
+                "grow to a future amount whose present value is N1"
+            ],
+            [
+                "Net present value (NPV) profit is _______________________________",
+                "the algebraic sum of all cash flow when discounted to time zero using a simple specified discounted rate"
+            ],
+            [
+                "Two basic reasons for project planning are (a) ________________________ (b) ____________________________",
+                "to eliminate or reduce uncertainty, to improve efficiency of the operation"
+            ],
+            [
+                "The engineering maintenance programme consists of ____________________________",
+                "a group or set of defined actions taken at specific intervals"
+            ],
+            [
+                "Two significant aspects of spare parts provisioning are ______________________ and ______________________",
+                "problem of quality, problem of distribution"
+            ],
+            [
+                "Problem solving involves _________________________",
+                "a logical sequence of activities"
+            ],
+            [
+                "Problem has two essential characteristics (i) _____________________________ (ii) _________________________",
+                "A deviation between what is happening and what is actually happening, what makes the deviation a problem"
+            ],
+            [
+                "Nigerian Engineers do mainly ________________________________ instead rather than design of machines and equipment ",
+                "purchase already available equipment"
+            ],
+            [
+                "_______________________ and ________________________ are the most important tasks of a top manager.",
+                "problem solving, decision making"
+            ],
+            [
+                "The sinking fund factor represents the amount that must be set aside ________________________________",
+                "periodically to grow to N1 in future"
+            ],
+            [
+                "Delegating means _______________________________",
+                "assigning work, responsibility and authority so others can make maximum utilization of their abilities"
+            ],
+            [
+                "An oil company has to pay $10,000.00 per year, starting one year from today, on loan obtained for five years at an effective interest rate of 8%. Calculate the equivalent present value of these five yearly payments _____________________",
+                "$3,9927"
+            ],
+            [
+                "If $15,000.00 is put in a bank account today at an interest rate of 8% what annual amount of money can be withdrawn every year over the next 7 years ___________________________",
+                "$2,881"
+            ],
+            [
+                "Research meant for the purpose of academic is generally referred to as _________________",
+                "pure research"
+            ],
+            [
+                "The product of the overhead rate and the cost of materials per unit is ________________________",
+                "the overhead cost per unit"
+            ],
+            [
+                "The objective of Pareto analysis is to save time in dealing with class A items and to save financial commitment in dealing with class C items. True or False __________________",
+                "False"
+            ],
+            [
+                "The economic order level or the least cost level of buffer stock occurs when the cost of ____________________ over a period equals the cost of _______________________",
+                "stockouts, carrying safety stock to prevent stockouts"
+            ],
+            [
+                "Inventory management according to Dr. Lewis is ______________________ of _____________________ the amount of stock held in various forms within a business",
+                "science-based art, controlling"
+            ],
+            [
+                "Planning is a series of steps involving logical _________________ and _________________",
+                "thinking, organization"
+            ],
+            [
+                "What is KISS in directing _____________________________",
+                "keep it simple, stupid"
+            ],
+            [
+                "The third element of decision making has to do with the _____________ of the ______________ of goods and services.",
+                "distribution, output"
+            ],
+            [
+                "Petroleum Trust Fund was created in 1994 by the ________________________ regime",
+                "Abacha military"
+            ],
+            [
+                "One of the main advantage of payback period is ____________________________",
+                "it is easy to understand"
+            ],
+            [
+                "In early days engineering was learnt by serving ____________________________ under and experienced engineers",
+                "a period of apprentice-ship"
+            ],
+            [
+                "An engineer is required to receive the following training (i) ________________________(ii) _________________________ (iii) __________________________",
+                "academic/practical, management/quantity surveying, professional development"
+            ],
+            [
+                "The origin of the title ’engineer’ is generally considered to have been used about _______________ in the writings of the Latin historian, ________________",
+                "200 A.D, Tertullian"
+            ]
+        ]
+    },
+    "PRE211": {
+        "courseTitle": "Manufacturing Technology I",
+        "courseCode": "PRE211",
+        "questions": [
+            [
+                "_____________ production method is used in the manufacture of office pins",
+                "Mass"
+            ],
+            [
+                "Magnetite has the chemical formula _______",
+                "Fe3O4"
+            ],
+            [
+                "Forge welding temperature for steel is _____________",
+                "1275-1400oc"
+            ],
+            [
+                "Galvanizing is the coating of steel with _________",
+                "zinc"
+            ],
+            [
+                "Aluminum has ____________",
+                "highly ductile"
+            ],
+            [
+                "Acid iron is impure iron of ____________ content, which may be refined to ________ by an ____________ ",
+                "low phosphorous, steel, acid process"
+            ],
+            [
+                "Production factories have ______ number of layouts",
+                "4"
+            ],
+            [
+                "A robot is a machine capable of performing a sequence of operations without ___________",
+                "human control"
+            ],
+            [
+                "______________ is a common harmful gas in an industry",
+                "Carbon monoxide"
+            ],
+            [
+                "The first step in the steel making process is the removal of __________",
+                "sulphur"
+            ],
+            [
+                "Electrode is used in welding process to ______________",
+                "stabilize the arc"
+            ],
+            [
+                "In casting process cavities are created using _______",
+                "core"
+            ],
+            [
+                "The most economical method of production is __________ production method",
+                "flow line"
+            ],
+            [
+                "Pure aluminium has a _____________",
+                "very low strength"
+            ],
+            [
+                "The air pressure (blast) at the hearth in a blacksmith forge should be from _____ to _____ water column",
+                "150 to 200mm"
+            ],
+            [
+                "The length of the handle of a blacksmith tong varies from _____ to _____",
+                "475 to 650mm"
+            ],
+            [
+                "In upsetting operation _____ and _____ upsetting are sometimes called heading",
+                "head and central"
+            ],
+            [
+                "The anvil has 4 feet at its base which stand to secure it to its foundation with the aid of _______ or ______",
+                "straps, spikes"
+            ],
+            [
+                "___________ and ___________ are the two types of chiseling processes employed in hand forging",
+                "Notching and cutting off"
+            ],
+            [
+                "The meter is defined as equal to __________ of the radiation emitted by the gas krypton (isotope 86) in a vacuum.",
+                "1,650,763.73"
+            ],
+            [
+                "The main joining processes are _______________ ",
+                "brazing, soldering, welding, adhesive, mechanical joining"
+            ],
+            [
+                "Soldering and brazing are examples of ______________ manufacturing process",
+                "permanent joining"
+            ],
+            [
+                "The length of a sledge hammer ranges from _______ to _______ ",
+                "700 to 900mm"
+            ],
+            [
+                "The weight of a sledge hammer varies from _______ to _______",
+                "2kg to 10kg"
+            ],
+            [
+                "Chisels for cutting hot metal are ground to an angle of ________ while that for cutting cold metals are ground to an angle of ________",
+                "30 to 45oc, 60 to 80oc"
+            ],
+            [
+                "In forge welding operation, the lower the content of steel and alloying element, the higher the ______________ and the more ________the metal",
+                "welding temperature, weldable"
+            ],
+            [
+                "Welding processes are used to produce joints which are at least equal in _________ to that of the material from which the constituent parts are made called the ______________",
+                "strength, parent metals or materials"
+            ],
+            [
+                "The hand hammers weigh from _______ to_______, the handles have a length of _______ to_______ ",
+                "0.5kg to 1.5kg, 350 to 400mm"
+            ],
+            [
+                "In solid phase welding, the application of pressure to induce ________ is usually necessary",
+                "plastic flow"
+            ],
+            [
+                "In arc welding, the temperature in the arc column may vary from _______ at the outside surface to _______ on the inside or even higher depending on the nature of the arc plasma and the current flowing through it",
+                "5000oc, 30,000oc"
+            ],
+            [
+                "Some welding machines have the capability of using both a.c and d.c currents by the use of a ________",
+                "selection switch"
+            ],
+            [
+                "Arc blow is more prevalent in _______ and is generally absent in ______________",
+                "d.c welding, a.c welding"
+            ],
+            [
+                "In d.c arc welding, when uncoated electrode are used, there is difficulty in maintaining a steady arc, the weld is ________, possessing little or no strength, and weld appearance _______",
+                "porous, is poor"
+            ],
+            [
+                "Welding processes may be classified into ________, ________, ________, and ________",
+                "electric arc welding, electric resistance welding, gas welding, solid phase welding"
+            ],
+            [
+                "______________ is the coating of steel with zinc",
+                "Galvanizing"
+            ],
+            [
+                "______________ is an impure iron of low phosphorous content which may be refined to steel by an acid process",
+                "Acid iron"
+            ],
+            [
+                " ______________ is a machine capable of performing a sequence of operations without human control",
+                "A robot"
+            ],
+            [
+                "In ________ molten filler metal is drawn by capillary attraction into the space between the closely adjacent surfaces of the parent metal",
+                "brazing"
+            ],
+            [
+                "______________ is used in welding process to stabilize the arc",
+                "Electrode"
+            ],
+            [
+                "In ______________ process cavities are created using core",
+                "casting"
+            ],
+            [
+                "In ________ operation head and central upsetting are sometimes called heading",
+                "upsetting"
+            ],
+            [
+                "The________ has 4 feet at its base which stand to secure it to its foundation with the aid of straps or spikes",
+                "anvil"
+            ],
+            [
+                "notching and cutting off are the two types of ______________processes employed in______________",
+                "chiselling, hand forging"
+            ],
+            [
+                "In _______ welding, the application of pressure to induce plastic flow is usually necessary",
+                "solid phase"
+            ],
+            [
+                "______________are used to produce joints which are at least equal in strength to that of the material from which the constituent parts are made called the parent metals or materials",
+                "Welding processes"
+            ],
+            [
+                "In ________, the temperature in the arc column may vary from 5000ᵒC at the outside surface to 30,000ᵒC on the inside or even higher depending on the nature of the arc plasma and the current flowing through it",
+                "arc welding"
+            ],
+            [
+                "________ is more prevalent in d.c welding and is generally absent in a.c welding",
+                "Arc blow"
+            ],
+            [
+                "In ________, when uncoated electrode are used, there is difficulty in maintaining a steady arc, the weld is porous, possessing little or non strength, and weld appearance is poor",
+                "d.c arc welding"
+            ],
+            [
+                "A joining process involves bringing two or more separate parts into ________ or _________ in order to act as one member",
+                "permanent or temporary"
+            ],
+            [
+                "A.c welding transformers are either _________ or _________",
+                "air cooled or oil cooled"
+            ],
+            [
+                "Arc welding machines deliver low voltage in the range of about ________ and high current of about ________",
+                "20-100volts, 50-500amps"
+            ],
+            [
+                "SMMAW electrodes are manufactured principally by _________ and _________is also used",
+                "extruding, dipping"
+            ],
+            [
+                "In gas welding, the flux acts as a ________ which improves the yield quality and makes welding _______",
+                "deoxidizer, easier"
+            ],
+            [
+                "Rutile which is naturally occurring metal is made up of about _________",
+                "88–94% of titanium oxide (TiO2)"
+            ],
+            [
+                "The structure of the oxy-acetylene flame consist of essentially three zones, namely _________",
+                "inner, intermediate, forward zones"
+            ],
+            [
+                "Combustion gases are made up of _________",
+                "fuel gases and oxygen"
+            ],
+            [
+                "Two techniques of torch movement are used in gas welding, these are the ______________________ technique",
+                "leftward welding, rightward welding"
+            ],
+            [
+                "In brazing molten filler metal is drawn by ________________into the space between the closely adjacent surfaces of the parent metal.",
+                "capillary attraction"
+            ],
+            [
+                "Soldering is a metal joining process in which union is effected between the parent metal by a layer of an ______________ at the filler/parent metal interface",
+                "soldering"
+            ],
+            [
+                "_________ Usually involve the use of elastometric and synthetic resin-based ________ to join similar and dissimilar materials together",
+                "Adhesive bonding adhesives"
+            ],
+            [
+                "________ is a metal joining process in which union is effected between the parent metal by a layer of an intermetallic compound at the filler/parent metal interface",
+                "Soldering"
+            ],
+            [
+                "______________ are made by using fasteners, folded joints and forced fitting methods",
+                "Mechanical joints"
+            ],
+            [
+                "Mechanical joints are made by using_________, _________ and _________ ",
+                "fasteners, folded joints and forced fitting methods"
+            ],
+            [
+                "A rivet is a fastening device which is secured by distortion or upsetting of the _________ and _________",
+                "shank and ends"
+            ],
+            [
+                "Industrial hygiene is concerned with _________, _________, and _________",
+                "identification, measurement, evaluation"
+            ],
+            [
+                "_________ is concerned with Identification, Measurement and evaluation",
+                "Industrial hygiene"
+            ],
+            [
+                "The normal temperature of the human body is ______ at body temperature below ______ and above ________ man dies",
+                "37oc, 32oc, 42oc"
+            ],
+            [
+                "Transformer-rectifier-type wielding machines also output dc voltage. A.C wielding transformer are either air-cooled or oil-cooled, oil cooling being used for_____________________",
+                "higher current ratings, TIG"
+            ],
+            [
+                "________ and _______ up to about 0.5% carbon may be wielded by heating the two surfaces to be wielded to appropriate temp 1275-1400oc",
+                "Wrought iron and steels"
+            ],
+            [
+                "Most accidents are preventable because they are caused by people through faulty behavior or the creation of _____________________",
+                "hazardous situation"
+            ],
+            [
+                "___________ is the comparison of the size of an object or the feature in an object with a legally defined unit or a standard value",
+                "An engineering measurement"
+            ],
+            [
+                "The standard temp of measurement is ______",
+                "20oc"
+            ],
+            [
+                "The combination set is used for _______, _______ and can be used as a ______________",
+                "checking angles, squareness, depth gauge"
+            ],
+            [
+                "A copper sulphate solution (cuso4) called _____________ is commonly used for coating iron and steel",
+                "blue vitriol"
+            ],
+            [
+                "The dimensioning of a work-piece with reference to a datum may be done in two ways, which are by the ________ and the ________",
+                "floating datum method and the fixed datum method"
+            ],
+            [
+                "Surface plates come in various sizes. A particular size is ______________ X ________ and ________ thick",
+                "600mm X 600mm, 1300mm"
+            ],
+            [
+                "The ________ is used for producing long straight lines which are beyond the scope of conventional measuring equipment",
+                "chalkline"
+            ],
+            [
+                "The deviation from the required geometrical from could be manifested by error of straightness, ______________ or cylindricity, concentricity, ______________ or squareness, parallelism or symmetry",
+                "circularity, perpendicularity"
+            ],
+            [
+                "______________ is a group of processes in which a part is shaped by bulk plastic flow of material",
+                "Metal forming process"
+            ],
+            [
+                "__________ are used for cutting sheet metal",
+                "Tinsnips"
+            ],
+            [
+                "The trend towards minimizing human effort by mechanical means in all operations concerning the production of a part of product is ______________",
+                "mechanization"
+            ],
+            [
+                "In ______________ production shop, manufacture is carried out only when customers places an order ",
+                "jobbing"
+            ],
+            [
+                "______________ Workshops are where essentially repairs are carried out ",
+                "Maintenance"
+            ],
+            [
+                "______________ And ________ are examples of foundry equipment",
+                "Tongs and furnaces"
+            ],
+            [
+                "The major drawback ______________ production layout i.e. Its relative inflexibility",
+                "of flowline"
+            ],
+            [
+                "In ______________ layout, the product is stationary while the various production equipment in when required to work on the product and moved out when each particular operation is completed.",
+                "fixed position"
+            ],
+            [
+                "________ ensure a limited number of grades,  types and sizes of the products",
+                "Simplification"
+            ],
+            [
+                "______________ processes are used to provide protection to component surface against environmental attack and also to provide aesthetically attractive appearance to the surfaces.",
+                "Surface finishing"
+            ],
+            [
+                "Turning, drilling, and milling are examples of _________ manufacturing processes",
+                "machining"
+            ],
+            [
+                "________________ involves the production of bulk quantities of material through chemical rather than mechanical means.",
+                "Process production"
+            ],
+            [
+                "Rolling and extrusion are examples of ______________ manufacturing process",
+                "metal forming"
+            ],
+            [
+                "List any 2 examples of the principle of manufacturing",
+                "Interchangeability, simplicity"
+            ],
+            [
+                "In ______________ layout, facilities are grouped together according to activities of a similar nature.",
+                "function"
+            ],
+            [
+                "In______________ layout facilities are laid out according to the operation sequence",
+                "flowline/product"
+            ],
+            [
+                "Ladlers, crucibles and patterns are example of ______________ equipment",
+                "foundry"
+            ],
+            [
+                "Electroplating and horing are examples of _______________ process",
+                "finishing"
+            ],
+            [
+                "Brazing and soldiering are examples of ________Process",
+                "permanent joining"
+            ],
+            [
+                "________ are usually made from either a rubber or silicon base, and are far joining nonmetallic materials to metal surfaces",
+                "Resin-synthetic"
+            ],
+            [
+                "_________ is a magnetic phenomenon which result in the distortion of the are shape or a deflection of the are away from the point of wielding",
+                "Arc blow"
+            ],
+            [
+                "The complete combustion of acetylene  (ethene) with oxygen is described by the following equation",
+                "C2H2 + 5/2(O2) = 2CO2 + H2O"
+            ],
+            [
+                "The structure of the oxy-acetylene flame consists of essentially 3 zones _________, ________, ________",
+                "inner, intermediate, forward zones"
+            ],
+            [
+                "The _______is obtained by burning one part acetylene with excess or greater than one part oxygen",
+                "neutral flame or balanced flame"
+            ],
+            [
+                "Oxygen has a molecular weight of ________ density of ________, specific gravity of ________",
+                "32g/mol, 1,43kg/m3, 1.1053"
+            ],
+            [
+                "Combustion gases are made up of ________ and _________",
+                "fuel gases, oxygen"
+            ],
+            [
+                "In the ________ the wielding rod precedes the torch along the scam and weld travel from right to left",
+                "leftward wielding"
+            ],
+            [
+                "Common solders are __________ with a composition of 35% tin and melting 65% lead being general purpose solder. Tin lead solder have melting points in the range __________",
+                "tin lead alloys, 175-400oc"
+            ],
+            [
+                "________ is a forging operation in which the length of a piece of metal is reduced and its cross section increased",
+                "Upsetting"
+            ],
+            [
+                "The anvil has _______ at its base, which serve to_________ it to its foundation with the aid of strap and spikes",
+                "4 feet, secure"
+            ],
+            [
+                "The blacksmith’s forge consists of platform called _______, _______ and _______",
+                "heart, hood, chimney"
+            ],
+            [
+                "The blast furnace is a _________ furnace made of thick steel lined with _______ bricks on the inside",
+                "shaft type, refractory"
+            ],
+            [
+                "________, _______, and _______ are charged into the blast furnance through the hopper at the top",
+                "Iron ore, coke, limestone"
+            ],
+            [
+                "The chemical equation for the complete burning of coke in the region of the tuyere is _________",
+                "C + O2 = CO2 + Heat (Exothermic), CO2 + C = 2CO – Heat (Endothermic), Fe2O3 + 3CO = 2Fe + 3CO2"
+            ],
+            [
+                "Always remember ________ in all you do in the workshop because safety is the most important thing",
+                "safety first"
+            ],
+            [
+                "CO contents of 0.06mg per litre of air results in mild poisoning with symptoms of ________, _______,_______ and ________",
+                "headache, dizziness, weakness in the knees, nausea"
+            ],
+            [
+                "In general, conditions and working capacity of man are affected by atmospheric conditions such as ____________, ________ and ________",
+                "temperature, humidity, air current"
+            ],
+            [
+                "Air velocities may be _________ for light work and ________ for hard work in the workshop",
+                "4m/s, 5m/s"
+            ],
+            [
+                "________  helps to maintain a constant body temperature in hot environment",
+                "Sweating therefore"
+            ],
+            [
+                "Most of the large particles when inhaled will be removed from the air by being trapped in the __________ of the nose and throat",
+                "moist mucus secretion"
+            ],
+            [
+                "Exposure of man to _______ relative humility at _______ may lead to death",
+                "100%, 37%"
+            ],
+            [
+                "Sponge iron is the impure iron from the _______ which when cast into ingots is called ______________",
+                "direct reduction process, briquets"
+            ],
+            [
+                "The first step in the steel making process is the removal of sulphur from molten iron from the blast furnace by treating it with soda ash ________ _________ the reaction equation is ________",
+                "FeS + Na2CO3 = FeO + Na2S + CO2"
+            ],
+            [
+                "Plain carbon steel is alloys of ________ and _______",
+                "iron, carbon"
+            ],
+            [
+                "Commercial aluminum is made by an electrolytic process from ______________",
+                "bauxite"
+            ],
+            [
+                "Copper is produced principally from ores which are complex mixtures of _______ and _______ by a smelting process similar to that of iron and steel or by ________ extraction",
+                "copper, iron sulphides, electrolytic"
+            ],
+            [
+                "________ is produced from rod by redrawing",
+                "Wire"
+            ],
+            [
+                "Sheet and strip are supplied in _______ and _______ from respectively",
+                "flat and strip"
+            ],
+            [
+                "PVC is made by the polymerization of ________ it is stabilized with ______________",
+                "vinyl Chloride (CH2=CHCl), a lead salt"
+            ],
+            [
+                "______________ are plastics which softens on heating and harden on cooling in a reversible manner",
+                "Thermoplastics"
+            ],
+            [
+                "Wood is highly ________, i.e. its properties vary with direction because of its ________ nature",
+                "arisotropic, fibrous"
+            ],
+            [
+                "A glass is the _______ or _______ form of complex silicates",
+                "vitreous, complex"
+            ],
+            [
+                "Asbestos is a naturally occurring mineral in the form of a fibrous rock, it has the chemical composition______________",
+                "(MgFe)7.(Si8022).(OH2F)2"
+            ],
+            [
+                "The lower the carbon content of steel and alloying elements the higher the ______________ and the more willable the metal",
+                "wielding temperature"
+            ],
+            [
+                "COREN means ______________",
+                "council for regulation of engineering in nigeria"
+            ],
+            [
+                "Automation is the replacement of ______________ by automatic controls",
+                "human control"
+            ],
+            [
+                "Another name for product layout is______________",
+                "flow line Layout"
+            ],
+            [
+                "______________ is a material that will withstand high temperature",
+                "A refractory"
+            ],
+            [
+                "FEPA _____________________________________ Regulate harmful substances discharged in air",
+                "federal government protection agency"
+            ],
+            [
+                "HSS ____________________________",
+                "high speed steel"
+            ],
+            [
+                "State the types of carbon steel and their carbon composition",
+                "Low carbon steel (0.05 – 0.30%), Medium Carbon steel (0.30-0.45%), High carbon steel (0.45-1.0%)"
+            ],
+            [
+                "Industrial radiography is used for ________ of materials",
+                "non destructive testing"
+            ],
+            [
+                "________ is used for aircraft landing wheels",
+                "Mg"
+            ],
+            [
+                "The major constituent of glass is ________",
+                "silica sand (SiO2)"
+            ],
+            [
+                "The polarity of the electrode may be__________",
+                "positive or straight"
+            ],
+            [
+                "A factory floor usually employs ______________",
+                "semi-skilled operatives"
+            ],
+            [
+                "The blacksmith anvil weighs _____________",
+                "80-300kg"
+            ],
+            [
+                "________ is the impure product from the blast furnace",
+                "Pig iron"
+            ],
+            [
+                "_________ is the impure iron from the direct reduction process",
+                "Sponge iron"
+            ],
+            [
+                "________ is the purest commercial form of iron",
+                "Ingot iron"
+            ],
+            [
+                "In brazing, the melting point of the filler metal is at least _______ than of the base metal",
+                "50oc lower"
+            ],
+            [
+                "The length of the upset section of the work should not be more than _______ times its diameter, or side of a square, otherwise it will __________ during upset.",
+                "2-2.5, buckle"
+            ],
+            [
+                "______________ is a naturally occurring mineral in the form of a fibrous rock.",
+                "Asbestos"
+            ],
+            [
+                "______________ are made up of Fuel gases and oxygen",
+                "Combustion gases"
+            ],
+            [
+                "Polystyrene is a transparent and brittle material, and is in a glass condition at ______________",
+                "ordinary temperature"
+            ],
+            [
+                "Natural rubber is ______________ whose source is milky liquid know as latex.",
+                "polyisoprene"
+            ],
+            [
+                "45 percent sulphur gives rise to fully vulcanized rubber which makes the rubber completely rigid, this material is known as ______________",
+                "ebonite"
+            ],
+            [
+                "Before commencing to bend a bar, it must be ______________ at the spot where it is to be bent.",
+                "upset"
+            ],
+            [
+                "When a large number of identical works has to be bent, the use of some type of bending __________ saves time and produces better and more uniform bends.",
+                "fixture"
+            ],
+            [
+                "When punching a hole, it should be carried out from both side to avoid a ______________ on a side of the work.",
+                "bulge"
+            ],
+            [
+                "Wrought iron and steel is up to about ______ carbon may be forge welded by heating the two surface to be wielded to appropriate temperatures, 1275-1400oc and hammering them together.",
+                "0.5%"
+            ],
+            [
+                "______________ is a form of chiseling whereby the work is nicked, to definite depth.",
+                "Notching"
+            ],
+            [
+                "A joining process involves bringing two or more separate parts into ___________ or ______________ union in order to act as one member.",
+                "permanent, temporary"
+            ],
+            [
+                "Welding processes usually involve raising the materials at the joint to ___________________",
+                "elevate temperatures"
+            ],
+            [
+                "__________ welding involves placing together the metals and heating them, often with the addiction of filler metal, until they melt, such that the joint is made by subsequent solidification of the metal.",
+                "fusion"
+            ],
+            [
+                "The application of pressure to induce plastic flow is usually necessary in _______________ welding",
+                "solid phase"
+            ],
+            [
+                "An electric arc is obtained when an electric current flows between two ______________ separated by a short distance.",
+                "electrodes"
+            ],
+            [
+                "The a.c-welding transformer is a versatile machine and is used whenever _____________ is being done.",
+                "arc welding"
+            ],
+            [
+                "The consumable electrode is clamped in a hand-held electrode holder which is connected to the welding machine by a _____________________.",
+                "welding cable"
+            ],
+            [
+                "The electrode coating is composed of a mixture of various ___________ and ________ materials, each of which performs one function or the other.",
+                "inorganic, organic"
+            ],
+            [
+                "A blacksmith forge or hearth is employed for heating metal meant for _______________________.",
+                "hand forge"
+            ],
+            [
+                "Forging operations are performed on the ______ of the anvil.",
+                "face"
+            ],
+            [
+                "____________ are employed for checking the accuracy of the shape of intricate forging.",
+                "Templates"
+            ],
+            [
+                "In hand forging operation work must always be drawn out in a ____________ section.",
+                "square"
+            ],
+            [
+                "Fullering or spreading is an operation whereby the width of the work is increased to a greater extent than its length as it is being ______________",
+                "drawn down"
+            ],
+            [
+                "______________ is a chiseling operation whereby a part of metal is separated from a piece of stock.",
+                "Cutting-off"
+            ],
+            [
+                "The flux in gas welding acts as dc-oxidizer which improves the ______________ and makes ___________ easier.",
+                "weld quality, weld"
+            ],
+            [
+                "The content of water vapor in the air is indicated by the term ______________",
+                "relative humidity"
+            ],
+            [
+                "The __________ of dust particles is important in determining where it will finally settle.",
+                "size"
+            ],
+            [
+                "Prolonged inhalation of silica dust causes the disease known as _______________",
+                "silicosis"
+            ],
+            [
+                "______________ in a workplace is the occurrence of a disaster which may lead to injury to personnel, including fatality, damage to property, equipment, material etc.",
+                "An accident"
+            ],
+            [
+                "The complete combustion of acetylene with oxygen take place in two stages for the flame tip of a ______________",
+                "welding torch"
+            ],
+            [
+                "The total heat supplied by the complete combustion of acetylene in oxygen is __________",
+                "1261.6kj"
+            ],
+            [
+                "During welding, the intermediate zone is made to cover the weld pool, protecting it from the _____________ and ______________ action of the surrounding atmosphere.",
+                "oxidizing, nitriding"
+            ],
+            [
+                "The neutral flame or ____________ flame is obtained by burning one part acetylene to one part of oxygen by volume.",
+                "balanced"
+            ],
+            [
+                "____________ gases made up of fuel gases and oxygen.",
+                "Combustion"
+            ],
+            [
+                "The critical temperature and pressure of oxygen is ___________ and ________ atmosphere.",
+                "-118.8oc, 48.7"
+            ],
+            [
+                "Elastometric adhesive are usually made from either a rubber or silicon base, and are for joining ______________ materials to metal surface.",
+                "non-metalic"
+            ],
+            [
+                "tin-lead solders have melting points in the range _______ to ________",
+                "175oc, 400oc"
+            ],
+            [
+                "____________ is used to join any material that has a melting point not less than 50oc higher than that of the filler metal.",
+                "Brazing"
+            ],
+            [
+                "A rivet is a fastening device which is secured by distortion or upsetting of the ________ and _______",
+                "shank, ends"
+            ],
+            [
+                "Production methods exist whereby the desired quantity of products dictates the way and manner these resources are _____________ used.",
+                "Economically"
+            ],
+            [
+                "In jobbing production, each product is considered as one operation which must be ____________ before onto the next.",
+                "completed"
+            ],
+            [
+                "_______________ involves the processing of discrete items of a particular product such that a series of operations are completed through before the next operation is carried out.",
+                "Batch production"
+            ],
+            [
+                "Examples of process manufacture include ____________________ and ______________",
+                "steel making plant, oil refineries"
+            ],
+            [
+                "In layout by process, _____________ are grouped according to activities of similar nature.",
+                "facilities"
+            ],
+            [
+                "The various types of production methods may be assume to be bounded by two extreme methods namely _____________ and _______________",
+                "jobbing manufacture, continuous process manufacture"
+            ],
+            [
+                "Jobbing, batch and mass production methods are concerned with the manufacture of ____________ items, while process manufacture is concerned with ______________ like gases liquid powder etc.",
+                "discrete, bulk quantities"
+            ],
+            [
+                "The workshops where essentially repairs are carried out are called _____________________",
+                "maintenance workshop"
+            ],
+            [
+                "___________________ takes a large amount of heat from the surface of the skin.",
+                "Evaporation"
+            ],
+            [
+                "Any condition that causes actual or potential loss or damage or undesirable effect on people and property is called ______________.",
+                "a hazard"
+            ],
+            [
+                "First aid is the immediate ______________ given to an accident victim using the facilities or materials available at the time before proper medical attention may be provided.",
+                "treatment"
+            ],
+            [
+                "In ____________________ layout facilities are laid out according to the operation sequence of the product and it is classified into ______________ and  __________________",
+                "flowline/product layout, straight and U-shaped flowline layout"
+            ],
+            [
+                "The manufacture of aircraft and ship is carried out using the _______________ layout, in this layout the product is ________________ while the various production equipment are moved in when required.",
+                "fixed position, stationary"
+            ],
+            [
+                "____________________ is a metal joining process in which union is effected between the parent metals by layer of an intermetallic compound at the filler (solder)/parent interface.",
+                "soldering"
+            ],
+            [
+                "Adhesive bonding usually involves the use of __________________ and __________________ adhesives to join similar and dissimilar materials together.",
+                "elastomeric, synthetic resin-based"
+            ],
+            [
+                "An ____________________ is a place where machines and some other hardware are made or repairied and it is subdivided into _______________ and __________________",
+                "Engineering workshop, manufacturing, maintanance"
+            ],
+            [
+                "Non-ferrous metals include ________________, _________________,_______________, __________________, ______________________, _____________________",
+                "Aluminium, copper, magnesium, tin, zinc, lead"
+            ],
+            [
+                "Carbon content in steel ranges from ____________ to ____________ percent while the carbon content for cast iron ranges from ___________ to ______________ percent.",
+                "distsnce, shielding and time"
+            ],
+            [
+                "_________________ is an alloy of copper and nickel while ________________ is an alloy of copper and tin.",
+                "cupronickel, bronze"
+            ],
+            [
+                "Chemical properties of metals include; __________________, ________________, _________________, _____________________",
+                "chemical properties, chemical composition, acidity, alkalinity"
+            ],
+            [
+                "________________________ test is a medical examination carried out to decide which work is best suited for an individual.",
+                "Pre-placement"
+            ],
+            [
+                "Fatique, boredom and strain are examples of ________________ hazard.",
+                "Ergonomical"
+            ],
+            [
+                "_____________________ is a personal protective overall that covers the leg and chest region which is held by straps.",
+                "dungares (overall)"
+            ],
+            [
+                "In bench work, work done on the material by hand including assembly is known as _____________________ while outlining shapes and dimensions is known as _______________________",
+                "fitting, marking out"
+            ],
+            [
+                "Marking out tools which are also used for measureements are _________________, __________________, ___________________, __________________",
+                "steel rule, straight edge, tri-square, surface gauge"
+            ],
+            [
+                "Floating datum is also referred to as ___________________ while progressive dimensioning is also known as _______________________",
+                "chain dimensioning, fixed datum"
+            ],
+            [
+                "The major optical property of metal is the ____________________",
+                "refractive index"
+            ],
+            [
+                "The blacksmith's tongs are made of 0.3-0.4% carbon steel, and are used for ________________ and _________________ work during forging.",
+                "turning, gripping"
+            ],
+            [
+                "The basic principals of protection against radiation of x-rays and gamma rays are ________________, _________________ and ________________.",
+                "distance, shielding, time"
+            ],
+            [
+                "Welding processes are used to produce joints which are at least __________________ to that of the parent metals or materials",
+                "equal in strength"
+            ],
+            [
+                "Solid-phase welding involves bringing the clean faces of the parent metals or materials into intimate contact to produce a _____________________, being performed with or without the addition of heat.",
+                "metallic bond"
+            ],
+            [
+                "________________, _____________, _______________ are shape forming processes while _____________ and _____________ gives the desirable mechanical properties and attractive surfaces.",
+                "casting, metal forming, machining, joining, finishing"
+            ],
+            [
+                "Examples of secondary metal forming process include _____________, ____________, ______________, _____________",
+                "forging, press work, hydroforming, spanning"
+            ],
+            [
+                "Bridge buildings and dam construction are typical examples of _______________ production which involves the processing of _______________ product.",
+                "jobbing, one"
+            ],
+            [
+                "_________________________ are products whose manufacture have started but waiting to be completed while the time taken to process one batch through one operation is known as __________________",
+                ""
+            ],
+            [
+                "The sledge hammer weighs from ____________ to __________, while the handles vary from ___________ to ___________ long.",
+                "2 to 10kg, 700 to 800mm"
+            ],
+            [
+                "The main joining processes are ________________, _________________, ________________ and __________________",
+                "welding, brazing, soldering, adhesive joining, mechanical joining"
+            ],
+            [
+                "_______________________ welding process depends on the existnece of an electric arec, which supplies the heat necessary for the localized melting of material at the joint of parent metals.",
+                "Electric arc"
+            ],
+            [
+                "Arc welding machines deliver low voltages in the range of about __________________ and high currents of about __________________",
+                "20 to volts, 50 to 500 amperes"
+            ],
+            [
+                "Transformers-rectifier-type welding machines also outputs d.c. voltage. A.c. welding transformers are either air-cooled or oil-cooled, oil-colling being used for _________________________",
+                "higher current rating"
+            ],
+            [
+                "The structure of oxy-acetylene flame consist essentially three zones ___________________, _________________ and ________________________ zones.",
+                "inner zone, intermediate zone, forward zone"
+            ],
+            [
+                "The complete combustion of accetylene with oxygen is described by the following equation: ___________________________________",
+                "C2H2 + 2.5O2 = 2CO2 + H2O"
+            ],
+            [
+                "Hand hammers are used for making __________________ and also used to show ____________________ where to hit the forging. ",
+                "light forgings, the striker"
+            ],
+            [
+                "Chisels are used for ___________________ metals and for ________________ prior to breaking",
+                "cutting, nicking"
+            ],
+            [
+                "Three types of upsetting are identified: _______________, ________________ and _____________ upsetting. The two latter types are sometimes called ___________________",
+                "full, head and central, heading"
+            ],
+            [
+                "_______________________ and ____________________ up to 0.5% carbon may be welded by heating the two surfaces to be welded to appropriate temperatures, 1275-1400oC",
+                "wrought iron, steels"
+            ],
+            [
+                "Oxygen is used to assist the combustion of gases in flame processes such as in gas welding in order to obtain a high _________________________",
+                "temperature flame"
+            ],
+            [
+                "Acetylene can be liquefied at ________________ to _______________ at atmospheric pressure. It solidifies at ________________________",
+                "-82.4oC to -83.6oC, -85oC"
+            ],
+            [
+                "The common brazing filler metals are the ____________________, _____________________ and _____________________",
+                "copper-based alloys, silver-based alloys, aluminium-based alloys"
+            ]
+        ]
+    },
+    "PRE212": {
+        "courseTitle": "Manufacturing Technology II",
+        "courseCode": "PRE212",
+        "questions": [
+            [
+                "Motions allowing for the handling and clamping of the work piece in the machine is an example _______________ motion.",
+                "Auxiliary"
+            ],
+            [
+                "Cutting tool materials must have sufficiently ____________________, ___________________ and ______________________ at elevated temperatures over a long period of time.",
+                "high hardness, strength, high wear resistance."
+            ],
+            [
+                "The volume of materials that can be removed per unit time is given by __________________ and its unit is in _____________________",
+                "Vm = dfv"
+            ],
+            [
+                "__________________________ cutting tools do not lose their cutting ability even when they are heated to 600oC.",
+                "High Speed Steel (HSS)"
+            ],
+            [
+                "_________________________, ___________________________, _________________________________, ___________________________ are newer machine tools that carry out machining operations which rely on chemical/electrical energy for the removal of metals instead of mechanical means.",
+                "Electro-discharge machining, Electro-chemical machining, Ultrasonic machining, Computer Numerical Central (CNC)"
+            ],
+            [
+                "In ________________________ cutting, cutting occurs when the tool major cutting edge is presented to the workpiece at an angle called ______________________ which is not perpendicular to the direction of feed motion.",
+                "oblique, shear"
+            ],
+            [
+                "Rake angle is _____________________ when the face is perpendicular to the plane of cut and _____________________ when the face slopes upward from the plane perpendicular to the plane of cut.",
+                "zero, negative"
+            ],
+            [
+                "The _________________________ of a cutting tool is the operating end of the tool which is formed by grinding and it is made up of the _______________________, __________________________, _________________________ and ____________________________",
+                "Tool point, face, nose, cutting edge, flank"
+            ],
+            [
+                "In one form of the direct reduction process, high grade ore in the form of pellets is fed continously into a slowly rotating klin which is fired by ______________________ or ________________________",
+                "natural gas, hydrocarbon"
+            ],
+            [
+                "______________________ is impure iron of low phosphorus content, which may be refined to steel by an acid process.",
+                "acid iron"
+            ],
+            [
+                "____________________ or ____________________ is the purest form of commercial iron.",
+                "Ingot, Swedish iron"
+            ],
+            [
+                "The first step in the steel making process is the removal of ____________________ for the molten iron from the blast furnance by treating it with _____________________ before charging it into the steel making equipment.",
+                "sulphur, soda ash"
+            ],
+            [
+                "For killed and semi-killed steels sufficient ______________________ are used to give some residual silicon and magnanese in the steel.",
+                "deoxidize gas"
+            ],
+            [
+                "High speed steel drills usually have \" High-speed\" or \" HSS\" stamped on them. If these markings are absent, the drill is most probably a _________________________ ",
+                "pure steel"
+            ],
+            [
+                "The three main parts of a twist drill are ______________, _________________ and ____________________.",
+                "point, body, shank"
+            ],
+            [
+                "The ______________________ or ___________________ of a twist drill is the sharp edge at the extreme top of the drill point which lies in the exact center of the drill axis, formed by the intersection of the cone-shaped surface of the drill point.",
+                "dead center, web"
+            ],
+            [
+                "The sizes of drilling machines are usually given in terms of the _____________________ of holes that can be drilled with the twist drill.",
+                "maximum diameter"
+            ],
+            [
+                "Drilling machine accessories may be classifield into _____________________________ and ______________________________",
+                "work holding, tool holding devices"
+            ],
+            [
+                "The drill chuck is used to hold ___________________________ drills.",
+                "straight shank"
+            ],
+            [
+                "A _______________________________ is used to enlarge the portion of a cylindrical bore or hole.",
+                "counterbore"
+            ],
+            [
+                "The height (h) of the tool point is the distance from the _____________________ to the _____________________ measured perpendicular to the base.",
+                "nose, base"
+            ],
+            [
+                "The _________________________ is the plane parallel to the longitudinal feed (that is parallel to the work axis) and to the cross fed (that is perpendicular to the work axis).",
+                "basic plane"
+            ],
+            [
+                "The rake angle is the angle between the _________________________ and the ____________________________ to the surface of cut and passing through the tool cutting edge.",
+                "tool face, plane normal"
+            ],
+            [
+                "The angle of inclination is also called _____________________________",
+                "Angle of slope"
+            ],
+            [
+                "Cutting fluid are divided into two main types; they are _____________________________ and ___________________________",
+                "water based fluid, straight oil"
+            ],
+            [
+                "____________________________ and ________________________________ favour formation of discontinous chips. ",
+                "large chip thickness, low rake angles"
+            ],
+            [
+                "The lathe is used to produce _________________________ shape on a work piece.",
+                "cylindrical"
+            ],
+            [
+                "The tailstock and the carriage slide on the ______________________________ of the lathe.",
+                "Bed"
+            ],
+            [
+                "The lead screw is used for ______________________________",
+                "Thread cutting"
+            ],
+            [
+                "The independent chuck has ____________________ numbers of layers. ",
+                "four"
+            ],
+            [
+                "The ______________________ is used to hold work pieces to the head stock spindle.",
+                "mandrel"
+            ],
+            [
+                "Straight turning is a process of removing excess material from a work piece to produce a cylindrical surface with a _______________________ diameter.",
+                "uniform"
+            ],
+            [
+                "Step turning is a process of turning a work piece to produce a cylindrical surface with ________________________ diameter ___________________",
+                "different, steps"
+            ],
+            [
+                "The process of embossing a diamond pattern on the surface of the work piece is called _______________________",
+                "knurling"
+            ],
+            [
+                "The process of producing a helical groove on a cylindrical surface is called _________________________",
+                "threading"
+            ],
+            [
+                "The highest quality iron ores are the ____________________________ and ____________________________________ which may contain up to 70% iron.",
+                "magnetite, hematite"
+            ],
+            [
+                "____________________, ______________________ and ______________________ are charged into the blast furnance through the hooper at the top.",
+                "limestone, iron ore and coke"
+            ],
+            [
+                "Gaugue is the earthly waste in the ore that combines with line to produce _____________________________",
+                "slag fluid"
+            ],
+            [
+                "Continous chips flow off the tool in the form of ______________________",
+                "ribbon"
+            ],
+            [
+                "Chips formation involve both ___________________ and __________________ deformation",
+                "elastiic, plastic"
+            ],
+            [
+                "_____________________, ________________________ and _________________________ favour continous chip formation.",
+                "low chip thickness, high rake angle, high ductility"
+            ],
+            [
+                "________________________ helps to reduce seizures between the chips and cutting tool.",
+                "cutting fluid"
+            ],
+            [
+                "Large chip thickness favours ______________________ chip formation.",
+                "discontinous"
+            ],
+            [
+                "_____________________ and _______________________ are most practical examples of straight oils.",
+                "mineral oil, vegetable oil"
+            ],
+            [
+                "___________________________ cutting tools have two or more cutting parts.",
+                "multi-point"
+            ],
+            [
+                "The tailstock and the carriage slide on the __________________ of the lathe",
+                "bed"
+            ],
+            [
+                "The head stock carries the _________________________________________ of the lathe.",
+                "hollow spindle and series of gears"
+            ],
+            [
+                "The carriage carries the ______________________ and ___________________________ of the lathe.",
+                "saddle, appron"
+            ],
+            [
+                "Straight turning is a process of removing excess material from a work piece to produce a cylindrical surface with a ____________________ diameter",
+                "uniform"
+            ],
+            [
+                "The process of bevelling the end of the workpiece is called ___________________",
+                "chamfering"
+            ],
+            [
+                "The process of embossing a diamond pattern on the surface of the work piece is called ____________________________",
+                "Knurling"
+            ],
+            [
+                "The purpose of embossing a diamond pattern on the surface of a work piece is to provide _______________________________",
+                "better appearance to the workpiece"
+            ],
+            [
+                "The process of producing a helical groove on a cylindrical surface is called _______________________  ",
+                "Thread cutting"
+            ],
+            [
+                "The lead screw is used for ________________________",
+                "moving the carriage in thread cutting"
+            ],
+            [
+                "The ____________________________ is used to hold work pieces to the head stock spindle.",
+                "chuck"
+            ],
+            [
+                "The independent chuck has _____________________________ numbers of jaws.",
+                "four"
+            ],
+            [
+                "The independent chuck is adjusted ___________________________",
+                "independently"
+            ],
+            [
+                "The universal chuck has _____________________ number of jaw.",
+                "three"
+            ],
+            [
+                "The ___________________________________ of the cutting tool is the surafce of the tool or that part of the tool shank which bears against the supporting surface.",
+                "base"
+            ],
+            [
+                "Rake angle is _________________________ when the face is perpendicular to the plane of cut.",
+                "zero"
+            ],
+            [
+                "The force F, acting upon the tool is increased by ___________________________ the rake angle.",
+                "reducing"
+            ],
+            [
+                "If rake angle (&alpha;) is positive _____________________, ____________________ and _____________________ relationsip exist.",
+                "&beta; + &alpha; + &gamma; = 90, &beta; + &gamma; = &delta;, &delta; + &alpha; = 90 "
+            ],
+            [
+                "_______________________________ is the angle between the tool face and the tool relief surface.",
+                "Wedge Angle"
+            ],
+            [
+                "_______________________________ find application where cooling is the most important consideration when machining.",
+                "water based fluid "
+            ],
+            [
+                "___________________________ is the plane tangent to the cut surafce and passing through the main cutting edge of the tool.",
+                "plane of cut"
+            ],
+            [
+                "The drilling machine is essentially made of ________________, _____________, __________________, _________________, __________________ and _______________________",
+                "base, column, spindle, table, fixed head, ajustable head"
+            ],
+            [
+                "The ___________________ carries the whole drilling machine structure.",
+                "base"
+            ],
+            [
+                "The common drilling machines may be of the ___________________ type which may be mounted on any suitable support and are usually of small capacities, and the _______________________ type which are mounted directly on the floor.",
+                "pedestal, pilar"
+            ],
+            [
+                "The sizes of drilling machines are usually given in terms of the _____________________________ of holes that can be drilled with the twist drill.",
+                "maximum diameter"
+            ],
+            [
+                "Drilling machines accessories may be classified into ___________________________ and __________________________",
+                "tool holding device, work holding device"
+            ],
+            [
+                "The drill chuck is used to hold _________________________ drills.",
+                "straight-shank"
+            ],
+            [
+                "The sleeve drill is used to hold _______________________ drills.",
+                "taper-shank"
+            ],
+            [
+                "____________________________ is used when the machine spindle is too small for the taper-shank of the drill.",
+                "A drill socket"
+            ],
+            [
+                "Twist drills are rotary-end cutting tools usually with two ______________________ and two _______________________ as passages for the removal of chips and the admission of cutting fluids. ",
+                "cutting lips, helical flutes"
+            ],
+            [
+                "Twist drills are made of _______________________, __________________ or _______________________ with cutting edges of ____________________________",
+                "carbon steel, high speed steel or carbon steel, tungsten carbide"
+            ],
+            [
+                "The three main parts of a twist drill are _______________, ______________ and __________________ ",
+                "point, body, shank"
+            ],
+            [
+                "The ______________________ or ____________________ of a twist drill is the sharp edge at the extreme top of the drill point which lies in the exact center of the drill axis, formed by the intersection of the cone-shaped surfaces of the drill point.",
+                "dead center, web"
+            ],
+            [
+                "The lips of the twist drill are the cutting edges of the drill point, extending from the __________________________ to the _______________________________",
+                "dead center, periphery"
+            ],
+            [
+                "Cutting tools made from alloy tool steel can withstand temperatures between ________________ and _______________ oC",
+                "250, 300"
+            ],
+            [
+                "Cutting tools at higher temperatures rapidly lose their _____________________ and _________________________ occurs.",
+                "hardness, failure"
+            ],
+            [
+                "____________________________ is the operating eend of the cutting tool which is formed by grinding.",
+                "Tool pooint"
+            ],
+            [
+                "The nose of a cutting tool helps to _________________________ to the tool.",
+                "minimize stress"
+            ],
+            [
+                "___________________________ of the tool point is the distance from the nose to the base measured perpendicular to the base.",
+                "height (H)"
+            ],
+            [
+                "A basic characteristic of metal machining is the removal of surplus material from stock in order to obtain the required shape and size. The surplus materials removed are called _______________ ",
+                "chips"
+            ],
+            [
+                "_____________________ and _______________________________ motions or a combination of the two are the common primary motions used in machine tools.",
+                "Rotary, reciprocating"
+            ],
+            [
+                "Auxiliary motions can either be hand or _________________ driven.",
+                "power"
+            ],
+            [
+                "Pooer hacksaws or bandsaws, drilling machines, lathes, shapers, planers, broaching machines, milling machines and grinders are generally reffered to as ____________________________ machine tools.",
+                "conventional"
+            ],
+            [
+                "The ___________________ supports the drill press head in a drilling machine. ",
+                "column"
+            ],
+            [
+                "The _____________________ carries the sleeve, spindle and feed gears in a drilling machine.",
+                "fixed head"
+            ],
+            [
+                "A drilling machine with work capacity of 400mm diameter is called a __________________ drilling machine",
+                "400mm"
+            ],
+            [
+                "list the types of drilling machines ___________________________, ____________________________, _____________________________, ________________________________, ____________________________",
+                "Manual feed vertical drilling machine, Power feed vertical drilling machine, Radial, Multi-spindle drilling machine, Portable drilling machine"
+            ],
+            [
+                "_____________________ are used to produce flat surfaces normal to its axis of rotation on bosses or in shallow recesses that serve as seats for bolts heads, nuts etc.",
+                "spot-facers"
+            ],
+            [
+                "_____________________ are used for enlarging cored, drilled or punched holes.",
+                "core dril"
+            ],
+            [
+                "______________________ are used for finishing drilled holes to size.",
+                "Reamers"
+            ],
+            [
+                "A ____________________ machine is a power driven machine tool that rotate a work piece about an axis of rotation to perform operation such as cutting, sanding, knurling, drilling, facing and turning. ",
+                "lathe"
+            ],
+            [
+                "list the types of lathe machine ____________________, ________________________, ___________________________, ______________________________, ___________________________, _______________________________",
+                "center or engine lathe, Turret lathe, Cutting lathe, Automatic lathe, Specialis=zed lathe, Vertical turning."
+            ],
+            [
+                "the ______________________ lathe is a general purpose lathe which is found in the machine shop.",
+                "center"
+            ],
+            [
+                "The ___________________ carries the cross slide, the compound rest and the tool post.",
+                "saddle"
+            ],
+            [
+                "The three jaw chuck has three jaws which turns ________________________",
+                "simultaneously"
+            ],
+            [
+                "_______________________ chuck has an adjustable hollow, split and taper head which is used to grip small diameter work piece.",
+                "collet"
+            ],
+            [
+                "_________________________ is a cylindrical work holding device having a taper of the order of 1 in 1000.",
+                "Mandrel"
+            ],
+            [
+                "Work holding devices in the lathe machine are _______________________, _______________________, _________________________, ____________________, _______________________",
+                "chuck, lathe center, face plate, lathe dog, mandrel"
+            ],
+            [
+                "The lathe accessories are classified into; _______________________, ______________________, ___________________________ and _____________________",
+                "work holding devices, work suppporting devices, tool holding devices, attachments"
+            ],
+            [
+                "_______________________ is a lathe machine operation done on a work piece in order to produce a smooth and true face of the work, and also to bring it to the desired length.",
+                "Facing"
+            ],
+            [
+                "The _______________________ of thread is the distance from the top or crest of the thread to the bottom on root of the thread measured vertically.",
+                "depth"
+            ],
+            [
+                "_________________ diameter is the largest diameter of the threead.",
+                "Major"
+            ],
+            [
+                "_________________ is the distance from a point on a screw thread to a corresponding point on the next thread measured parallel to the work axis. ",
+                "pitch  (p)"
+            ],
+            [
+                "Sawing machining operation can be performed with _________________________ machine tool.",
+                "power hacksaw/Bandsaw"
+            ],
+            [
+                "Grinding machining operation can be performed with _________________________ machine tool.",
+                "Grinder"
+            ],
+            [
+                "The two main purpose of machine tools are ________________________________ and ______________________________________",
+                "to produce certain form, to produce finished surfaces"
+            ],
+            [
+                "Another name for working motion is ________________________",
+                "formative motion"
+            ],
+            [
+                "maximum cutting speed depends on; ________________________, _________________________, ________________________, and _____________________________",
+                "tool material, work material, machining method, rigidity of the material"
+            ],
+            [
+                "Rotary motion and reciprocating motion are examples of _______________________________ motion",
+                "primary cutting"
+            ],
+            [
+                "____________________ motion determines cross sectional area of the chip.",
+                "Feed motion"
+            ],
+            [
+                "Motion allowing, handling and clamping are examples of _______________________ motion",
+                "Auxiliary"
+            ],
+            [
+                "______________________ are formed by the intersection of the face and flank.",
+                "cutting edge"
+            ],
+            [
+                "________________________________ and _____________________________ are two types of metal cutting.",
+                "orthogonal cutting, oblique cutting"
+            ],
+            [
+                "Cutting tools made from cemented carbides can withstand temperatures between ________________ and _______________ oC",
+                "800, 900"
+            ],
+            [
+                "Cutting tools made from carbon tool steel can withstand temperatures between ________________ and _______________ oC",
+                "200, 250"
+            ],
+            [
+                "Cutting tools made from high speed steel can withstand temperatures up to _______________ oC",
+                "600"
+            ],
+            [
+                "Cutting tools made from diamonds can withstand temperatures up to _______________ oC",
+                "1500"
+            ],
+            [
+                "Cutting tools made from ceramics tools can withstand temperatures up to _______________ oC",
+                "1200"
+            ],
+            [
+                "________________________ cutting tool has just one cutting part.",
+                "single point"
+            ],
+            [
+                "_______________________ and __________________________ are two types of cutting edges",
+                "side or main cutting edge, end or auxilliary cuting edge"
+            ],
+            [
+                "The _______________________ plane is the plane parallel to the longitudinal feed that is parallel to the work axis.  ",
+                "basic"
+            ],
+            [
+                "_________________________ is the rate at which the drill is advanced vertically into the work per revolution of the drill or per unit time.",
+                "Drill feed"
+            ],
+            [
+                "___________________________ chips are produced from machining hard metals, such as cast iron of low ductility at low speed.",
+                "Discontinous"
+            ],
+            [
+                "______________________________ or _____________________________ is the angle inclined between the cutting edge and a line passing through the tool nose parallel to the baic plane.",
+                "Angle of inclination, Angle of slope"
+            ],
+            [
+                "____________________ and _____________________ are undesireable because they weaken steel by making it brittle.",
+                "sulphur, phosphorous"
+            ],
+            [
+                "Converter capacities are up to about ____________________ tonnes or ______________",
+                "100, more"
+            ],
+            [
+                "Steel produced from converters tends to possess lower ductilities than other steeldue to the __________________ absorbed by the steel. ",
+                "nitrogen"
+            ],
+            [
+                "The _____________________ is used to produce the largest tonnage of iron which is refined to steel.",
+                "blast furnance"
+            ],
+            [
+                "One of the first ____________________ plants in the world is the ______________________, _________________. arri which was commissioned in the early 1980's. ",
+                "direct reduction, Delta steel company, Aladja"
+            ],
+            [
+                "There are iron ______________ holes and ___________________ holes at the hearth in the bottom of the furnance.",
+                "tap, slag"
+            ],
+            [
+                "The _______________________ is a shaft-type furnance made of thick steel shell lined with refractory bricks on the inside.",
+                "blast furnance"
+            ],
+            [
+                "The iron produced in the blast furnance referred to as a ____________________. ",
+                "pig iron"
+            ],
+            [
+                "_____________________ is composed largely of silica ",
+                "gangue"
+            ],
+            [
+                "The iron produced in the direct reduction process is called _____________________",
+                "sponge iron"
+            ],
+            [
+                "Sponge iron, when cast into ingots are called ___________________",
+                "briquets"
+            ],
+            [
+                "________________________ is impure iron containing up to 2% phosphorus, which may be refined to steel by a basic process.",
+                "Basic iron"
+            ],
+            [
+                "______________________ or _________________________ is the purest commercial form of iron.",
+                "Ingot, Swedish"
+            ],
+            [
+                "_____________________________ is the conversion of non-workable high carbon (3-4% carbon) iron into a lower carbon product which can be hot worked by rolling or forging. ",
+                "Steel production"
+            ],
+            [
+                "The steel making equipment is usually an  __________________________ or a _________________________, which is lined in most cases with a basic refractory - dolomite. The mixed carbonate of _________________ and ______________",
+                "Open hearth furnance, converter, calcium, magnesium"
+            ],
+            [
+                "The other major constituent of the slag is either ______________ (in the basic process) or ______________ (in the acidic process).",
+                "lime, silica"
+            ],
+            [
+                "Open hearth capacities range from __________ tonnes to _____________ tonnes.",
+                "50, 300"
+            ],
+            [
+                "Converters are brick-lined steel vessels which operates on the principle of an ___________________ or mixture being blown into or onto the molten metal in order to refine ______________ into steel. ",
+                "oxidising, pig iron"
+            ],
+            [
+                "Low carbon steel is also known as __________________",
+                "mild steel"
+            ],
+            [
+                "_____________________________ are plain steels to which alloying elements have been added in order to impart some desirable properties.",
+                "Alloy steels"
+            ],
+            [
+                "_____________________ type of drilling machine is also called pistol drilling machine.",
+                "Portable"
+            ],
+            [
+                "Large and heavy work is usually performed on the ________________ type of drilling machine.",
+                "Radial"
+            ],
+            [
+                "______________________ is an adjustable supporting device used in different set-ups on the drilling machine.",
+                "jackscrew"
+            ],
+            [
+                "A Countersink is a cuter used to make ___________________ at the end of the hole.",
+                "cone-shaped enlargement"
+            ],
+            [
+                "____________________ is used to enlarge a portion of a cylinderical bore or hole.",
+                "counter bore"
+            ],
+            [
+                "The _______________ is used for enlarging cored, drilling or punched holes.",
+                "core-drills"
+            ],
+            [
+                "___________________ are used for finishing drilled holes to size since drilled holes are not finished to close tolerance or fine surface finishes.",
+                "Reamers"
+            ]
+        ]
+    },
+    "CHE222": {
+        "courseTitle": "Material Science",
+        "courseCode": "CHE222",
+        "questions": [
+            [
+                "Dezincification of brass is an example of a form of corrosion known as __________________",
+                "selective leaching"
+            ],
+            [
+                "The type of stress where the load of force is applied tangentially to the surface of the material is called _________________",
+                "shear stress"
+            ],
+            [
+                "The study of the relationship that exist between structure and properties of materials on the atomic scale is referred to as _______________",
+                "material science"
+            ],
+            [
+                "The state of having different property values in different direction is termed _________________",
+                "anisotropy"
+            ],
+            [
+                "The relationship among characteristic lenghts and interfacial angles makes up ________________ number of different crystal systems.",
+                "7"
+            ],
+            [
+                "The performance of a machines and equipment is tied to the _________________ and __________________ of the materials they are made from.",
+                "behaviour, properties"
+            ],
+            [
+                "The mass of an electron is _______________ the mass of a hydrogen atom.",
+                "1/1836"
+            ],
+            [
+                "The integration of space latticce and Basis constitute a __________________",
+                "crystal structure"
+            ],
+            [
+                "pH, dissolved gas, velocity of fluid, and __________________ are some of the factors that affect uniform corrosion.",
+                "temperature"
+            ],
+            [
+                "materials engineering is focused on the designing or engineering of the ____________________ to produce a predetermined set of properties.",
+                "structure of a material"
+            ],
+            [
+                "Coupling of two dissimilar metals is required for a given application. the two dissimilar metals are to be selected from among the following mwtals: 316 stainless steel (active), copper, Tin and brass (Cu-Zn alloy). the best two selections that will significantly minimize the effect of galvanic corrosion are ________________ and _________________",
+                "copper, Brass"
+            ],
+            [
+                "A proton possesses a unit positive charge of electricity equal to ____________________",
+                "1.602x10^-19 coulomb"
+            ],
+            [
+                "____________________________ are the atoms that constitute a lattice point",
+                "Basis"
+            ],
+            [
+                "____________________ is the mathematical point representation of the locations of atoms in a unit cell.",
+                "Lattice point"
+            ],
+            [
+                "The mass of an electron is _____________________",
+                "9.1x10^-31kg"
+            ],
+            [
+                "____________________________ are atoms which possesses different atomic numbers but same atomic masses",
+                "Isobars"
+            ],
+            [
+                "_________________________ are atoms of elements possessing different masses but same number of protons.",
+                "Isotopes"
+            ],
+            [
+                "The first scientific model to predict the structure of the atom is ____________________",
+                "Thompson atomic model"
+            ],
+            [
+                "The major difficulty of the rutherford model is the stabillity of the atom. True or False",
+                "True"
+            ],
+            [
+                "In Bohr's model all the difficulties of the rutherford's atomic model were assumed to be non-existent. True or False",
+                "True"
+            ],
+            [
+                "According to Bohr model, the total energy of an electron in the first orbit of a hydrogen atom is _________________",
+                "-13.6ev"
+            ],
+            [
+                "The total energy of an electron in the second orbit of a hydrogen atom is ___________________",
+                "-3.4ev"
+            ],
+            [
+                "The total energy of an electron in the second orbit of a lithium atom is ___________________ ",
+                "-30.6ev"
+            ],
+            [
+                "The velocity of an electron of the hydrogen atom in the Bohr first orbit is ____________________",
+                "2.18x10^6m/s "
+            ],
+            [
+                "The shape of the p-orbital is ___________________________",
+                "Dump bell"
+            ],
+            [
+                "The electronic configuration of carbon in the excited and hybridized state is _______________________",
+                "1s2 2s1 2px1 2py1 2pz1"
+            ],
+            [
+                "What is the difference between the summerfield model and Bohr model _______________________",
+                "most electron orbitals are elliptical"
+            ],
+            [
+                "The wavelenght of a moving particle such as an electron is given by the equation ________________________",
+                "&lambda; = h/mv"
+            ],
+            [
+                "There are ___________________ nanometer in an inch.",
+                "24,500,000"
+            ],
+            [
+                "The type of semi-conductor where the electrical behaviour is based on the electronic structure inherent to the pure material is ______________",
+                "Intrinsic semi-conductor"
+            ],
+            [
+                "The type of corrosion arising from the combined effect of chemical attack and mechanical abraision as a consequence of fluid motion",
+                "errosion-corrosion"
+            ],
+            [
+                "The two types of composite materials are __________________________ and _________________________",
+                "Natural, Synthetic"
+            ],
+            [
+                "The method that measures the distance between parallel lattice planes of atoms is __________________",
+                "Bragg's method"
+            ],
+            [
+                "The maximum value of stress which can be applied for an indefinite time without causing failure referred to as _________________",
+                "Endurance limit"
+            ],
+            [
+                "The crystal structure of brass is _________________",
+                "B.C.C."
+            ],
+            [
+                "The _______________ properties of material relates deformation to an applied or force.",
+                "mechanical"
+            ],
+            [
+                "Sudden and severe changes in the temperature of a material create what is known as ____________________",
+                "Thermal shock"
+            ],
+            [
+                "Substances in low concentratioon that decrease the corrosiveness of the environment are known as ____________________",
+                "Inhibitors"
+            ],
+            [
+                "Metals with less than 5% elongation are regarged as __________________",
+                "Brittle"
+            ],
+            [
+                "Feynman described a process in which scientists would be able to manipulate and control individual ______________________ and __________________",
+                "atoms, molecules"
+            ],
+            [
+                "Elasticity of solids has its origin in the existence and stabillity of interatomic and _______________ bonding",
+                "intermolecular"
+            ],
+            [
+                "Carbon nanotubes can be divided into _____________________________ and ______________________________",
+                "Single Walled, Multi Walled"
+            ],
+            [
+                "Bones and wood are examples of  ________________________________ composite materials",
+                "natural"
+            ],
+            [
+                "A sheet of newspaper is about _____________________ nanometer thick.",
+                "100,000"
+            ],
+            [
+                "A material that experience very little or no plastic deformation before fracture is termed ____________________",
+                "Elasticity"
+            ],
+            [
+                "____________________ is a property of materials which is indicative of the ability of the body to absorb heat. ",
+                "Heat capacity"
+            ],
+            [
+                "____________________________ can be define as materials possessing at minimum one external dimensioning measuring 1-100nm",
+                "nano-materials"
+            ],
+            [
+                "___________________ is science, engineering and technology conducted at the nanoscale which is about 1 to 100 nanometers.",
+                "Nanotechnology"
+            ],
+            [
+                "The production of __________________ involves the binding together of an odd number of thin layers of fine wood by a resin under pressure ",
+                "plywood"
+            ],
+            [
+                "optical fibres are made from ________________",
+                "silica"
+            ],
+            [
+                "The maximum number of electrons on the third subshell is given as _______________________",
+                "2+6+10 = 18"
+            ],
+            [
+                "When two metals are heated together, the composite strips bends towards the metal with the ________________________",
+                "lower cofficient of expansion"
+            ],
+            [
+                "_________________ is a good exaample of a composite material.",
+                "wood"
+            ],
+            [
+                "The common composite material consisting of aggregate of particles that are bound together in a solid body by a binding medium is known as ____________________",
+                "concrete"
+            ],
+            [
+                "The boundaries between polycrystalline materials are called ___________________________",
+                "grain boundary"
+            ],
+            [
+                "Materials in which a state of magnetism can be induced are termed _____________________",
+                "magnetic materials"
+            ],
+            [
+                "The maximum number of electrons in the fourth sub-shell is given as ___________________ ",
+                "2+6+10+14 = 32"
+            ],
+            [
+                "The principal quantum number for M-shell is ________________ and the maximum number of eletrons in this shell is ______________",
+                "3, 18"
+            ],
+            [
+                "In other to produce a polysaccharide nanocrystal that is crystalline the _______________ component is removed through ________________",
+                "Amorphous, Acid hydrolysis"
+            ],
+            [
+                "The materials in which the particles are condensed together to form a integral mass is known as _______________________",
+                "Agglomerated materials"
+            ],
+            [
+                "For hydrogen the velocity of the electron in the Bohr orbit is _______________ times the velocity of light ",
+                "1/137"
+            ],
+            [
+                "what is the shape of fullerences _______________________",
+                "soccer ball"
+            ],
+            [
+                "Ceramics results from the combination of ________________ and ______________________ elements",
+                "metalic, non-metallic"
+            ],
+            [
+                "The maximum number of electrons in the third sub-shell is given as ___________________ ",
+                "2+6+10 = 18"
+            ],
+            [
+                "The maximum number of electrons in the fourth principal energy level are ____________________",
+                "32"
+            ],
+            [
+                "Annealing process consists of three stages, namely; (i) heating to the desired temperature (ii) holding at that temperature and (iii) _________________________ ",
+                "cooling usually at room temperature"
+            ],
+            [
+                "The heating and cooling operations required to alter the properties of materials are known as ____________________",
+                "Heat treatment"
+            ],
+            [
+                "______________________ corrosion occurs in some alloys when a pronounced difference in reactivity exists between grain boundaries and the remainder of the alloy ",
+                "Intergranular"
+            ],
+            [
+                "Solids exists in two principal forms _____________________ and _________________",
+                "crystalline, non crystalline"
+            ],
+            [
+                "chemical bonds are classifield into ________________ and ___________________ bonds depending on the extent of electron involvement",
+                "primary, secondary"
+            ],
+            [
+                "An array of points so arranged in space that each point has identical sourroundings is called a _________________",
+                "space lattice"
+            ],
+            [
+                "The magnitude and direction of lattice distortation associated with a dislocator are specifield by its ___________________",
+                "Burgers vector"
+            ],
+            [
+                "sharing of electrons between neigbouring atoms results in ____________________",
+                "covalent bonding"
+            ],
+            [
+                "_____________________ generally refers to the structure as observed under the optical microscope",
+                "micro-structure"
+            ],
+            [
+                "_____________________materials typically have low densities and maybe extremely flexible and have very large molecular structure ",
+                "polymers"
+            ],
+            [
+                "Chemical compounds that are added to electrolyte antifreeze, and corrosive solution to retard chemical reaction are referred to as ___________________",
+                "Inhibitors"
+            ],
+            [
+                "A _____________________ bond is formed if the degree of involvement of electrons results in a pronounced lowering of energies",
+                "Secondary bond"
+            ],
+            [
+                "Broadly speaking material science is concerned with the relations between _________________ and ___________________ of materials and the process of altering them.",
+                "structure and properties"
+            ],
+            [
+                "A crystal structure consists of a _____________________ and ____________________",
+                "space lattice, Basis"
+            ],
+            [
+                "A ____________________ is a constant temperature line drawn in the two phase region on, of a phase diagram.",
+                "tie line"
+            ],
+            [
+                "_______________, __________________ and ____________________ are the three stages of creep.",
+                "primary, secondary, tertiary"
+            ],
+            [
+                "_________________ and _________________ primary bonds are non directional in character while _____________ primary bond is directional in character.",
+                "metallic and ionic, Covalent"
+            ],
+            [
+                "solid imperfections can be classifield as _______________,___________,_______________ and _________________ defects.",
+                "point, linear, interfacial and bulk/volume"
+            ],
+            [
+                "vacanics, interstitial, substitutional and frenkel defects are types of __________________ defects.",
+                "point"
+            ],
+            [
+                "An alloy is _________________________________",
+                "a mixture of two or more metallic and possibly non metallic elements"
+            ],
+            [
+                "________________ is the property of a material that enables it to regain its original shape",
+                "elasticity"
+            ],
+            [
+                "_________________ is the ability of a material to be permanently deformed without fracture even after the load is removed.",
+                "plasticity"
+            ],
+            [
+                "____________ is a locus of temperature point above which the system consists of all liquid. while _______________ is a locus of temperature points below which the system exists as all solids",
+                "liquidus, solidus"
+            ],
+            [
+                "No two electrons in the atom can exist in the same quantum. this statement is known as ________________ ",
+                "pauli Exclusion principal"
+            ],
+            [
+                "A corrosion control method in which a more reactive metal in the prevailing environment is connected electrically to the metal to be protected is known as ____________________ ",
+                "Cathodic protection"
+            ],
+            [
+                "_________________ is the variation of a materials property wwith the direction along which the property is measured. ",
+                "Anisotropy"
+            ],
+            [
+                "__________________ materials lack the regular arrangement of atoms and are said to have short range order in their atomic stacking sequence",
+                "non crystalline (Amorphous)"
+            ],
+            [
+                "phase diagrams formed by two metals which are completely soluble in the liquid state, but partly or completely insoluble in the solid state is known as ___________________",
+                "Eutectic type"
+            ],
+            [
+                "screw and edge defects are types of ________________ defects",
+                "linear"
+            ],
+            [
+                "materials employed in components implanted into the human body for replacement of diseased or damaged body parts are known as ________________",
+                "Biomaterials"
+            ],
+            [
+                "The periodic table has _________ periods and ___________ groups",
+                "7, 18"
+            ],
+            [
+                "The ratio of the lateral stress to the longitudinal strain is called __________________",
+                "poisson's ratio"
+            ],
+            [
+                "The number of atom per unit cell in BCC, FCC and HCP structures is ____________, ______________ and _________________ respectively",
+                "2, 4, 6"
+            ],
+            [
+                "material cost and cost of processing is one major factor affecting the selection of materials in many engineering application. True or False",
+                "True"
+            ],
+            [
+                "The study of bonds in solids and super conductivity is very important for an engineer in selecting suitable metals for his jobs. True or False",
+                "True"
+            ],
+            [
+                "According to wave mechanics the wave length of an electron is given by the relation __________________",
+                "&lambda; = h/mv"
+            ],
+            [
+                "The maximum value of stress which can be applied for an indefinite timewithout causing failure is referred to as _________________",
+                "Endurance limit"
+            ],
+            [
+                "There are several synthetic rubbers in production these are produced in a similar way to palstics, by a chemical process known as ___________________",
+                "Polymerisation"
+            ],
+            [
+                "_______________________ is a process that gives increased strength, elasticity and resistance to change in temperature.",
+                "Heat treatment"
+            ],
+            [
+                "polymers are different from metals in the sense that their structure consists of very long __________________",
+                "chains of carbons atoms"
+            ],
+            [
+                "___________________ is formed when certain materials are melted at high temperature then rapidly cooled preventing crystalization",
+                "Alloy"
+            ],
+            [
+                "___________________ formed empirical rules that govern the choice of alloying elements in the formation of substitutional solutions.",
+                "Hume-Rothery"
+            ],
+            [
+                "during heat treatment of a metal piece, changes occur in the ________________ of the metal.",
+                "micro-constituents"
+            ],
+            [
+                "A material that experiences very little or no plastic deformation before fracture is termed __________________",
+                "Brittle"
+            ],
+            [
+                "The __________________ is the strain energy per unit volume required to stress a material from an unloaded state up to the point of yielding ",
+                "modulus of resilience"
+            ],
+            [
+                "The most common glass in use is _________________ made of mostly silicon dioxide, sodium oxide and lime",
+                "soda lime glass"
+            ],
+            [
+                "______________________ hard brittle heat-resistance materials made by firing a mixture of clay and chemicals at high temperature.",
+                "Ceramics"
+            ],
+            [
+                "pH, temperauture, dissolved gaas and _______________ are some of the factors that affect uniform corrosion.",
+                "velocity of fluid"
+            ],
+            [
+                "Solid in which a large forbidden gap exist between its valance band and conduction band is called __________________ ",
+                "An insulator"
+            ],
+            [
+                "The reaction that yields two solid phase on cooling a single phase is called _______________________",
+                "Eutectic type"
+            ],
+            [
+                "On heating if one solid phase split into two solid phase, the reaction is _____________________",
+                "Peritectic type"
+            ],
+            [
+                "The mass of an electron is greater than the mass of a proton. True or False",
+                "False"
+            ],
+            [
+                "The mass of an electron is _______________ and 1ev = ___________________ ",
+                "9.1x10^-31kg, 1.602x10^-19 coulomb"
+            ],
+            [
+                "Stainless steels are highly resistant to corrosion in a rather wide variety of atmospheres. as a result of __________________",
+                "Passivation"
+            ],
+            [
+                "___________________ is the property of materials which is indicative of the ability of the body to absorb heat",
+                "Heat capacity"
+            ],
+            [
+                "Removal of source hydrogen is one to reduce the likehood of the occurence of ____________________",
+                "Hydrogen Embrittlement"
+            ],
+            [
+                "In the cathodic protection, the metal oxidized is often called ______________________",
+                "cathode"
+            ],
+            [
+                "properties such as refractive index, reflectivity and absorption coefficient fall under ______________________________ of engineering materials",
+                "Optical properties"
+            ],
+            [
+                "The stage of creep that is characterized by gradual decrease of deformation rate up to definite constant value is __________________",
+                "First stage/primary creep"
+            ],
+            [
+                "_________________ is a form of electrochemical corrosion that occurs when the whole surface of the metal is corroded to the same degree",
+                "Uniform corrosion"
+            ],
+            [
+                "The ability of an element to exist in two or more crystalline structure is called ___________________",
+                "Allotropy"
+            ],
+            [
+                "A __________________ is a solid composed of atoms, ions or molecules arranged in a pattern that is repeated in three-dimendion",
+                "crystal"
+            ],
+            [
+                "Good mechanical properties is an advantage of composite materials. True or False",
+                "True"
+            ],
+            [
+                "_________________ substances have no crystalline structure in the condensed state.",
+                "Amorphous"
+            ],
+            [
+                "_____________________ is the mathematical point representation of the locations of atoms in a unitt cell.",
+                "lattice point"
+            ],
+            [
+                "simple cubic, Body-centered cubic, and Face-centered Cubic are types of unit cells. True or False ",
+                "True"
+            ],
+            [
+                "The single walled carbon nanotubes (SWCNT) has three types. Arm chair, zig zag and _________________ ",
+                "chiral/helical"
+            ],
+            [
+                "Single walled carbon nanotubes (SWCNT) is the single folding of thick layer ________________________ ",
+                "graphene sheet"
+            ],
+            [
+                "___________________ can be considered as a collection of SWCNT with different diamenters.",
+                "Multi walled carbon nanotubes"
+            ],
+            [
+                "Laser-ablation technique is a method for producing carbon nanotubes (CNTs).  True or False",
+                "True"
+            ],
+            [
+                "one nanometer is a ________________ of a meter",
+                "billionth"
+            ],
+            [
+                "Reinforcement + Matrix = ___________________",
+                "composite"
+            ],
+            [
+                "when a load is applied the _________________ shares the load with the reinforcement element. They act as agent of load distribution.",
+                "matrix"
+            ],
+            [
+                "To achieve better properties of materials is one of the reasons for the design of polymer composite materials. True or False",
+                "True"
+            ],
+            [
+                "One of the examples of composite materials include Aluminum Silicon Carbide, the matrix _______________, reinforcement ________________ particle.",
+                "Aluminum, Silicon Carbide"
+            ],
+            [
+                "A significant reduction in ductility and tensile strength when atomic hydrogen (H) penetrates into a material is a phenomenon refered to as __________________________________",
+                "Hydrogen Embrittlement"
+            ],
+            [
+                "Chemical properties includes ___________________, ______________________, ________________________",
+                "Atomic weight, acidity alkalinity, chemical composition"
+            ],
+            [
+                "Optical properties includes _____________________, ______________________ and ____________________________",
+                "Refractive index, reflectivity, Absorption coefficient "
+            ],
+            [
+                "_____________________ is the only quantum number associated with bohr model.",
+                "Principal quantum number"
+            ],
+            [
+                "The total energy of an electron in an orbit revolving around the nucleus is made up of two parts namely; ______________________ and _________________________",
+                "Kinetic, potential energy"
+            ],
+            [
+                "_______________________ model suggests that electron is considered to exhibit both wave like and particle like characteristics. ",
+                "Wave mechanical model"
+            ],
+            [
+                "_______________________ is defined as arrays of imaginary points arrange in space such that each point has identical surroundings",
+                "Space lattice"
+            ],
+            [
+                "The distance from one atom to another atom measured along one of the axes is called _______________________",
+                "Space constant"
+            ],
+            [
+                "_________________________ is defined as the number of atoms per unit length along a particular crystallographic direction.",
+                "Linear denstiy"
+            ],
+            [
+                "_________________________ is defined as the number of atoms per unit area of a crystallographic plane. ",
+                "Planar density"
+            ],
+            [
+                "____________________, ____________________ and _______________________ are the most common space lattice.",
+                "BCC, HCP, FCC"
+            ],
+            [
+                "______________________ refers to a lattice irregularity having one or more of its dimensions on the order of an atomic diameter.",
+                "Crystalline defect"
+            ],
+            [
+                "The alloying element are added to improve one or more of ___________________, ________________________ and _______________________ ",
+                "Tensile strength, hardness, toughness"
+            ],
+            [
+                "Plasticity of materials increases with increasing temperature (True or False)",
+                "True"
+            ],
+            [
+                "____________________ is a measure of the degree of plastic deformation up to the point of fracture, while __________________ may be defined as the property of a metal by virtue of which it fractures without any appreciable deformation.",
+                "Ductility, brittleness"
+            ],
+            [
+                "______________________ is a very weak form of magnetism exhibited by substance with a negative magnetic susceptibility.",
+                "Diamagnetism"
+            ],
+            [
+                "The fraction of incident light that is transmitted through a transparent material depends on the losses that are incurred by _______________________ and _______________________",
+                "Absorption, reflection"
+            ],
+            [
+                "____________________ heat treatment forms a non equilibrum structure in an alloy ",
+                "Hardening"
+            ],
+            [
+                "In _________________________, the part is surrounded by material or atmosphere rich in carbon and on heating this carbon is first released and then absorbed.",
+                "carburizing"
+            ]
+        ]
+    }
+}
