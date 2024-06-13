@@ -1,0 +1,620 @@
+{
+    "quizData": [
+        {
+            "id": "0",
+            "question": "Which is the most widely spoken language in the world?",
+            "options": [
+                "Spanish",
+                "Mandarin",
+                "English",
+                "German"
+            ],
+            "correct": "Mandarin"
+        },
+        {
+            "id": "1",
+            "question": "Which is the only continent in the world without a desert?",
+            "options": [
+                "North America",
+                "Asia",
+                "Africa",
+                "Europe"
+            ],
+            "correct": "Europe"
+        },
+        {
+            "id": "2",
+            "question": "Who invented Computer?",
+            "options": [
+                "Charles Babbage",
+                "Henry Luce",
+                "Henry Babbage",
+                "Charles Luce"
+            ],
+            "correct": "Charles Babbage"
+        },
+        {
+            "id": "3",
+            "question": "Alongside former President Frederik Willem de Klerk, which then President of South Africa won a Nobel prize for their work to peacefully end apartheid in the country?",
+            "options": [
+                "Mgabe",
+                "Henry Gbague",
+                "Nelson Mandela",
+                "Luke Mooore"
+            ],
+            "correct": "Nelson Mandela"
+        },
+        {
+            "id": "4",
+            "question": "How many cards are there in a pack of cards (not incl. jokers)?",
+            "options": [
+                "52",
+                "53",
+                "50",
+                "32"
+            ],
+            "correct": "52"
+        },
+        {
+            "id": "5",
+            "question": "What does www stand for?",
+            "options": [
+                "World wide web",
+                "West Wide World",
+                "Wide wide west",
+                "Web Wide World"
+            ],
+            "correct": "World wide web"
+        },
+        {
+            "id": "6",
+            "question": "Where might you find Tower Bridge and Buckingham Palace, amongst many other landmarks?",
+            "options": [
+                "Canada",
+                "London",
+                "Paris",
+                "USA"
+            ],
+            "correct": "London"
+        },
+        {
+            "id": "7",
+            "question": "What is the name of Mickey Mouse’s partner?",
+            "options": [
+                "Minnie Mouse",
+                "Mouse",
+                "Nicky Mouse",
+                "Nicky"
+            ],
+            "correct": "Minnie Mouse"
+        },
+        {
+            "id": "8",
+            "question": "What country is famous for inventing the Taco, Burrito and Quesadilla?",
+            "options": [
+                "Italy",
+                "Spain",
+                "Mexico",
+                "France"
+            ],
+            "correct": "Mexico"
+        },
+        {
+            "id": "9",
+            "question": "Who is the South African born CEO of SpaceX and the brains behind Tesla?",
+            "options": [
+                "Mark Zukerberg",
+                "Elon Musk",
+                "Jeff Bezos",
+                "Ma"
+            ],
+            "correct": "Elon Musk"
+        },
+        {
+            "id": "10",
+            "question": "What animal is Pumbaa in the Lion King?",
+            "options": [
+                "A Lion",
+                "A Zebra",
+                "A Lioness",
+                "A warthog"
+            ],
+            "correct": "A warthog"
+        },
+        {
+            "id": "11",
+            "question": "What company is responsible for the iPhone, iPad and iWatch and many other products?",
+            "options": [
+                "Apple",
+                "Andriod",
+                "HTC",
+                "XOS"
+            ],
+            "correct": "Apple"
+        },
+        {
+            "id": "12",
+            "question": "What is the largest country by area in the world?",
+            "options": [
+                "Russia",
+                "USA",
+                "India",
+                "China"
+            ],
+            "correct": "Russia"
+        },
+        {
+            "id": "13",
+            "question": "In which country would you find Angel Falls, the highest waterfall on earth?",
+            "options": [
+                "Cameroon",
+                "Venezuela",
+                "South Africa",
+                "Columbia"
+            ],
+            "correct": "Venezuela"
+        },
+        {
+            "id": "14",
+            "question": "What city is the capital of France?",
+            "options": [
+                "Lyon",
+                "Troyes",
+                "Paris",
+                "Lile"
+            ],
+            "correct": "Paris"
+        },
+        {
+            "id": "15",
+            "question": "How many states are there in America? ",
+            "options": [
+                "49",
+                "50",
+                "51",
+                "52"
+            ],
+            "correct": "50"
+        },
+        {
+            "id": "16",
+            "question": "Name the capital of China.",
+            "options": [
+                "Beijing",
+                "Chou Zhoua",
+                "Goan",
+                "Lie jung"
+            ],
+            "correct": "Beijing"
+        },
+        {
+            "id": "17",
+            "question": "Which is larger the Pacific or the Atlantic Ocean?",
+            "options": [
+                "Pacific",
+                "Atlantic Ocean",
+                "None",
+                "Both"
+            ],
+            "correct": "Pacific"
+        },
+        {
+            "id": "18",
+            "question": "Who was assassinated, leading to the start of the First World War?",
+            "options": [
+                "Granz Murphy",
+                "Archduke Franz Ferdinand",
+                "Duke Ferdinando",
+                "Adolf Hitler"
+            ],
+            "correct": "Archduke Franz Ferdinand"
+        },
+        {
+            "id": "19",
+            "question": "Who conquered England in 1066?",
+            "options": [
+                "William (the Conqueror)",
+                "James (the Conqueror)",
+                "Jacob (the Conqueror)",
+                "Harry (the Conqueror)"
+            ],
+            "correct": "William (the Conqueror)"
+        },
+        {
+            "id": "20",
+            "question": "In what year did the US sign the declaration of Independence, now celebrated on 4th July each year?",
+            "options": [
+                "1776",
+                "1786",
+                "1796",
+                "1806"
+            ],
+            "correct": "1776"
+        },
+        {
+            "id": "21",
+            "question": "Where was the famous attack by Japan that led to America joining World War II?",
+            "options": [
+                "Pearl Harbor",
+                "Duke Harlum",
+                "David West",
+                "Jack Zukhi"
+            ],
+            "correct": "Pearl Harbor"
+        },
+        {
+            "id": "22",
+            "question": "Which British King famously had six wives?",
+            "options": [
+                "Henry VIII",
+                "Harry VIII",
+                "Ryan VIII",
+                "Justin VIII"
+            ],
+            "correct": "Henry VIII"
+        },
+        {
+            "id": "23",
+            "question": "In which city was Jesus said to have been born?",
+            "options": [
+                "Bneiu Yehuda",
+                "Cairo",
+                "Jarusalem",
+                "Bethlehem"
+            ],
+            "correct": "Bethlehem"
+        },
+        {
+            "id": "24",
+            "question": "What is the most played sport in India and has produced many greats of the game including Sachin Tendulkar and Sunil Gavaskar?",
+            "options": [
+                "Cricket",
+                "Soccer",
+                "Tennis",
+                "Dancing"
+            ],
+            "correct": "Cricket"
+        },
+        {
+            "id": "25",
+            "question": "The All Blacks are the rugby team of which country?",
+            "options": [
+                "USA",
+                "London",
+                "France",
+                "New Zealand"
+            ],
+            "correct": "New Zealand"
+        },
+        {
+            "id": "26",
+            "question": "Which English footballer retired in 2006 with a record 260 Premiership goals?",
+            "options": [
+                "Wayne Rooney",
+                "Ryan Gigs",
+                "Alan Shearer",
+                "Fletcher"
+            ],
+            "correct": "Alan Shearer"
+        },
+        {
+            "id": "27",
+            "question": "Which basketball team became the first to reach the milestone of 3,000 wins in 2010?",
+            "options": [
+                "Chicago Bulls",
+                "LA Lakers",
+                "NY Bulls",
+                "Eagles"
+            ],
+            "correct": "LA Lakers"
+        },
+        {
+            "id": "28",
+            "question": "Dubbed the ‘King of Pop’, which artist released the album Thriller, which went on to be the bestselling album of all time?",
+            "options": [
+                "Prince",
+                "Michael Jackson",
+                "Madonna",
+                "Witney Huston"
+            ],
+            "correct": "Michael Jackson"
+        },
+        {
+            "id": "29",
+            "question": "Which famous US singer was born in Tupelo, Mississippi in 1935 and died aged in 1977 in Graceland, Tennessee?",
+            "options": [
+                "Elvis",
+                "Prince",
+                "Andre",
+                "James Brown"
+            ],
+            "correct": "Elvis"
+        },
+        {
+            "id": "30",
+            "question": "What is the name of the royal singer who turned the rain purple?",
+            "options": [
+                "James Brown",
+                "Prince",
+                "Elvis",
+                "Michael Jackson"
+            ],
+            "correct": "Prince"
+        },
+        {
+            "id": "31",
+            "question": "La Louvre and Musee D’Orsay are famous museums in which city?",
+            "options": [
+                "Paris",
+                "Lile",
+                "Rome",
+                "Eibar"
+            ],
+            "correct": "Paris"
+        },
+        {
+            "id": "32",
+            "question": "Acquired by Disney from this famous George for $4 billion in 2012, was which film production house? ",
+            "options": [
+                "Lucasfilm",
+                "justfilm",
+                "thrillerfilm",
+                "johnfilm"
+            ],
+            "correct": "Lucasfilm"
+        },
+        {
+            "id": "33",
+            "question": "In beer, what does IPA stand for?",
+            "options": [
+                "Indian Pale All",
+                "Indian Pale Ale",
+                "Ideal Pale Ale",
+                "Indian Part Ale"
+            ],
+            "correct": "Indian Pale Ale"
+        },
+        {
+            "id": "34",
+            "question": "Vanilla is native to which country?",
+            "options": [
+                "Madagascar",
+                "Fuji",
+                "Jamiaca",
+                "Mexico"
+            ],
+            "correct": "Madagascar"
+        },
+        {
+            "id": "35",
+            "question": "What coloured vegetable is now mainly orange but can also be purple and yellow?",
+            "options": [
+                "Banana",
+                "Orange",
+                "Carrots",
+                "Pineapple"
+            ],
+            "correct": "Carrots"
+        },
+        {
+            "id": "36",
+            "question": "What is the main ingredient of bread?",
+            "options": [
+                "Sugar",
+                "Flour",
+                "Egg",
+                "Salt"
+            ],
+            "correct": "Flour"
+        },
+        {
+            "id": "37",
+            "question": "In general, roughly how many months does a human pregnancy last?",
+            "options": [
+                "9 months",
+                "7 months",
+                "8 months",
+                "10 months"
+            ],
+            "correct": "9 months"
+        },
+        {
+            "id": "38",
+            "question": "What is the largest mammal currently inhabiting the earth?",
+            "options": [
+                "Shark",
+                "Blue Whale",
+                "Elephant",
+                "Dragon"
+            ],
+            "correct": "Blue Whale"
+        },
+        {
+            "id": "39",
+            "question": " Often described as the longest river on earth, on which continent would you find the Nile?",
+            "options": [
+                "America",
+                "Asia",
+                "Africa",
+                "North America"
+            ],
+            "correct": "Africa"
+        },
+        {
+            "id": "40",
+            "question": "Deciduous trees lose their leaves at certain times of the year. What is the name of trees that don’t?",
+            "options": [
+                "Coniferous or Evergreen",
+                "Coniferous",
+                "Evergreen",
+                "None"
+            ],
+            "correct": "Coniferous or Evergreen"
+        },
+        {
+            "id": "41",
+            "question": "What is the largest land animal to roam the planet?",
+            "options": [
+                "The Asian Elephant",
+                "The American Elephant",
+                "The European Elephant",
+                "The African Elephant"
+            ],
+            "correct": "The African Elephant"
+        },
+        {
+            "id": "42",
+            "question": "What is the name of the rainforest that is synonymous with Brazil?",
+            "options": [
+                "Amazon",
+                "Zulu",
+                "Brasile",
+                "Coritiba"
+            ],
+            "correct": "Amazon"
+        },
+        {
+            "id": "43",
+            "question": "In which circle are you most likely to find Polar bears?",
+            "options": [
+                "Arctic Circle",
+                "Alantic",
+                "Pacific",
+                "Galaxy"
+            ],
+            "correct": "Arctic Circle"
+        },
+        {
+            "id": "44",
+            "question": "According to the famous saying, how many lives does a cat have?",
+            "options": [
+                "8",
+                "3",
+                "5",
+                "9"
+            ],
+            "correct": "9"
+        },
+        {
+            "id": "45",
+            "question": "What bird is famous for being pink?",
+            "options": [
+                "Flamingo",
+                "Parot",
+                "Camelon Bird",
+                "Junk Bird"
+            ],
+            "correct": "Flamingo"
+        },
+        {
+            "id": "46",
+            "question": "What elements make up water?",
+            "options": [
+                "Air and Hydrogen",
+                "Oxygen and Air",
+                "Oxygen and Hydrogen",
+                "Chlorine and Hydrogen"
+            ],
+            "correct": "Oxygen and Hydrogen"
+        },
+        {
+            "id": "47",
+            "question": "What double b is a common school equipment used for heating science experiments?",
+            "options": [
+                "Bunsen Burner",
+                "Buna Burner",
+                "Best Burner",
+                "B Burner"
+            ],
+            "correct": "Bunsen Burner"
+        },
+        {
+            "id": "48",
+            "question": "True or False: Venus is the closest planet to Earth?",
+            "options": [
+                "None",
+                "True",
+                "False",
+                "I dont Know"
+            ],
+            "correct": "True"
+        },
+        {
+            "id": "49",
+            "question": "The gaseous elements helium, neon, argon, krypton, xenon, and radon are better known as what?",
+            "options": [
+                "The oil Gases",
+                "The Metals",
+                "The Noble Gases",
+                "The Inert Gases"
+            ],
+            "correct": "The Noble Gases"
+        },
+        {
+            "id": "50",
+            "question": "What is the simple name for molten rock that erupts from a volcano?",
+            "options": [
+                "Lava",
+                "Fire",
+                "Liquid Fire",
+                "Algae"
+            ],
+            "correct": "Lava"
+        },
+        {
+            "id": "51",
+            "question": "Appropriately, what is the name of Saturn’s largest moon?",
+            "options": [
+                "Tanus",
+                "Titan",
+                "Sitan",
+                "Mitan"
+            ],
+            "correct": "Titan"
+        },
+        {
+            "id": "52",
+            "question": "Which scientist came up with the theory of E=MC2?",
+            "options": [
+                "Newton",
+                "Archimedes",
+                "Albert Einstein",
+                "Henry Ford"
+            ],
+            "correct": "Albert Einstein"
+        },
+        {
+            "id": "53",
+            "question": "What oath is taken by doctors and named after an Ancient Greek physician?",
+            "options": [
+                "Nepocratic",
+                "Euphoppocratic",
+                "Hippocratic",
+                "Dempocratic"
+            ],
+            "correct": "Hippocratic"
+        },
+        {
+            "id": "54",
+            "question": "Who was the first black president of the United States of America?",
+            "options": [
+                "Martin Luther King",
+                "Opra Winfred",
+                "Malcom X",
+                "Barak Obama"
+            ],
+            "correct": "Barak Obama"
+        },
+        {
+            "id": "55",
+            "question": "Who had an affair in the White House with Monica Lewinski?",
+            "options": [
+                "Bill Clinton",
+                "George Washington",
+                "Joe Biden",
+                "Donal Trump"
+            ],
+            "correct": "Bill Clinton"
+        }
+    ]
+}
