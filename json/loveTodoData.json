@@ -1,0 +1,67 @@
+{
+    "data": {
+        "messages": {
+            "love": [
+                {
+                    "text": "This is a very formal text love"
+                },
+                {
+                    "text": "This is a very formal text love"
+                },
+                {
+                    "text": "This is a very formal text love"
+                },
+                {
+                    "text": "This is a very formal text love"
+                },
+                {
+                    "text": "This is a very formal text love"
+                }
+            ],
+            "friendship": [
+                {
+                    "text": "This is a very formal text friend"
+                },
+                {
+                    "text": "This is a very formal text friend"
+                },
+                {
+                    "text": "This is a very formal text friend"
+                },
+                {
+                    "text": "This is a very formal text friend"
+                },
+                {
+                    "text": "This is a very formal text friend"
+                }
+            ],
+            "flirt": [
+                {
+                    "text": "This is a very formal text flirt"
+                },
+                {
+                    "text": "This is a very formal text flirt"
+                },
+                {
+                    "text": "This is a very formal text flirt"
+                },
+                {
+                    "text": "This is a very formal text flirt"
+                },
+                {
+                    "text": "This is a very formal text flirt"
+                }
+            ]
+        },
+        "backgroundImages": [
+            {
+                "url": "https://www.cloudinary.com"
+            }
+        ],
+        "backgroundColors": [
+            {
+                "color": "#244362"
+            }
+        ]
+    }
+}
