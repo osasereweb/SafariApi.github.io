@@ -1,67 +1,43 @@
 {
     "data": {
         "messages": {
-            "love": [
-                {
-                    "text": "This is a very formal text love"
+            "love": {
+                "lo1": {
+                    "name": "Compliment Messages for who you just met",
+                    "content": [
+                        "Your style is incredible—it really suits you.",
+                        "You have the most captivating eyes I’ve ever seen.",
+                        "I really admire how confident you are—it’s inspiring.",
+                        "You carry yourself so gracefully; it’s impossible not to notice."
+                    ]
                 },
-                {
-                    "text": "This is a very formal text love"
-                },
-                {
-                    "text": "This is a very formal text love"
-                },
-                {
-                    "text": "This is a very formal text love"
-                },
-                {
-                    "text": "This is a very formal text love"
+                "lo2": {
+                    "name": "Playful and Flirty Messages",
+                    "content": [
+                        "Do you always have this much charm, or is it just me?",
+                        "I think meeting you might have been the highlight of my day.",
+                        "So, are you always this amazing, or did I catch you on a good day?",
+                        "I was trying to focus, but then I remembered our conversation and got distracted."
+                    ]
                 }
-            ],
-            "friendship": [
-                {
-                    "text": "This is a very formal text friend"
-                },
-                {
-                    "text": "This is a very formal text friend"
-                },
-                {
-                    "text": "This is a very formal text friend"
-                },
-                {
-                    "text": "This is a very formal text friend"
-                },
-                {
-                    "text": "This is a very formal text friend"
-                }
-            ],
-            "flirt": [
-                {
-                    "text": "This is a very formal text flirt"
-                },
-                {
-                    "text": "This is a very formal text flirt"
-                },
-                {
-                    "text": "This is a very formal text flirt"
-                },
-                {
-                    "text": "This is a very formal text flirt"
-                },
-                {
-                    "text": "This is a very formal text flirt"
-                }
-            ]
+            }
         },
         "backgroundImages": [
-            {
-                "url": "https://www.cloudinary.com"
-            }
+            "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735330851/image2_wrtanv.jpg",
+            "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735330851/image4_qflglk.jpg",
+            "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735330850/image3_acczfl.jpg",
+            "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735330850/image1_gk236i.jpg",
+            "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735330605/beautiful-nature-generated-by-ai-v0-bniwauk88zob1_urszqi.jpg",
+            "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735330605/istockphoto-1317323736-612x612_tbnvoh.jpg"
         ],
         "backgroundColors": [
-            {
-                "color": "#244362"
-            }
+            "#244362",
+            "#949398FF",
+            "#F4DF4EFF",
+            "#FC766AFF",
+            "#5B84B1FF",
+            "#5F4B8BFF",
+            "#E69A8DFF"
         ]
     }
 }
