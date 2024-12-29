@@ -1,24 +1,69 @@
 {
     "data": {
         "messages": {
-            "love": {
-                "lo1": {
-                    "name": "Compliment Messages for who you just met",
-                    "content": [
-                        "Your style is incredible—it really suits you.",
-                        "You have the most captivating eyes I’ve ever seen.",
-                        "I really admire how confident you are—it’s inspiring.",
-                        "You carry yourself so gracefully; it’s impossible not to notice."
-                    ]
-                },
-                "lo2": {
-                    "name": "Playful and Flirty Messages",
-                    "content": [
-                        "Do you always have this much charm, or is it just me?",
-                        "I think meeting you might have been the highlight of my day.",
-                        "So, are you always this amazing, or did I catch you on a good day?",
-                        "I was trying to focus, but then I remembered our conversation and got distracted."
-                    ]
+            "a": {
+                "id": "a",
+                "name": "Love",
+                "banner": "https://www.cloudu.com",
+                "subs": {
+                    "ao1": {
+                        "id": "a01",
+                        "name": "Compliment Messages for who you just met",
+                        "content": [
+                            "Your style is incredible—it really suits you.",
+                            "You have the most captivating eyes I’ve ever seen.",
+                            "I really admire how confident you are—it’s inspiring.",
+                            "You carry yourself so gracefully; it’s impossible not to notice."
+                        ]
+                    },
+                    "ao2": {
+                        "id": "a02",
+                        "name": "Playful and Flirty Messages",
+                        "content": [
+                            "Do you always have this much charm, or is it just me?",
+                            "I think meeting you might have been the highlight of my day.",
+                            "So, are you always this amazing, or did I catch you on a good day?",
+                            "I was trying to focus, but then I remembered our conversation and got distracted."
+                        ]
+                    },
+                    "ao3": {
+                        "id": "a03",
+                        "name": "Thoughtful Messages",
+                        "content": [
+                            "What’s one thing you’re really passionate about? I’d love to know.",
+                            "I noticed how kind you were to [someone]. That really stood out to me.",
+                            "What’s something you’ve always wanted to try but haven’t yet?",
+                            "You seem like someone who’s full of amazing stories. I can’t wait to hear more.",
+                            "What’s the best advice you’ve ever received? You seem like someone who gives great advice."
+                        ]
+                    }
+                }
+            },
+            "b": {
+                "id": "b",
+                "name": "Friendship",
+                "banner": "https://www.cloudu.com",
+                "subs": {
+                    "bo1": {
+                        "id": "b01",
+                        "name": "Compliment Messages for who you just met",
+                        "content": [
+                            "Your style is incredible—it really suits you.",
+                            "You have the most captivating eyes I’ve ever seen.",
+                            "I really admire how confident you are—it’s inspiring.",
+                            "You carry yourself so gracefully; it’s impossible not to notice."
+                        ]
+                    },
+                    "bo2": {
+                        "id": "b02",
+                        "name": "Playful and Flirty Messages",
+                        "content": [
+                            "Do you always have this much charm, or is it just me?",
+                            "I think meeting you might have been the highlight of my day.",
+                            "So, are you always this amazing, or did I catch you on a good day?",
+                            "I was trying to focus, but then I remembered our conversation and got distracted."
+                        ]
+                    }
                 }
             }
         },
