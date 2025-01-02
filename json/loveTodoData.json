@@ -6,7 +6,7 @@
                 "name": "Love",
                 "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735637654/love_rdiiud.jpg",
                 "subs": {
-                    "ao1": {
+                    "a01": {
                         "id": "a01",
                         "name": "Compliment Messages for who you just met",
                         "content": [
@@ -16,7 +16,7 @@
                             "You carry yourself so gracefully; it’s impossible not to notice."
                         ]
                     },
-                    "ao2": {
+                    "a02": {
                         "id": "a02",
                         "name": "Playful and Flirty Messages",
                         "content": [
@@ -26,7 +26,7 @@
                             "I was trying to focus, but then I remembered our conversation and got distracted."
                         ]
                     },
-                    "ao3": {
+                    "a03": {
                         "id": "a03",
                         "name": "Thoughtful Messages",
                         "content": [
@@ -44,7 +44,7 @@
                 "name": "Friendship",
                 "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735637655/friendship_xsz4o4.jpg",
                 "subs": {
-                    "bo1": {
+                    "b01": {
                         "id": "b01",
                         "name": "Compliment Messages for who you just met",
                         "content": [
@@ -54,7 +54,7 @@
                             "You carry yourself so gracefully; it’s impossible not to notice."
                         ]
                     },
-                    "bo2": {
+                    "b02": {
                         "id": "b02",
                         "name": "Playful and Flirty Messages",
                         "content": [
