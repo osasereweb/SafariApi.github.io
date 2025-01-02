@@ -4,7 +4,7 @@
             "a": {
                 "id": "a",
                 "name": "Love",
-                "banner": "https://www.cloudu.com",
+                "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735637654/love_rdiiud.jpg",
                 "subs": {
                     "ao1": {
                         "id": "a01",
@@ -42,7 +42,7 @@
             "b": {
                 "id": "b",
                 "name": "Friendship",
-                "banner": "https://www.cloudu.com",
+                "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735637655/friendship_xsz4o4.jpg",
                 "subs": {
                     "bo1": {
                         "id": "b01",
